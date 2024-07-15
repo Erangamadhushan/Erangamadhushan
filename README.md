@@ -7,7 +7,10 @@
 - ❕❕EM956❕❕
 
 
+
 <!---
-Erangamadhushan/Erangamadhushan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Erangamad![Screenshot 2024-07-15 223349](https://github.com/user-attachments/assets/92e94710-bb2c-4093-a0b8-4671cf516560)
+hushan/Erangamadhushan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Screenshot 2024-07-15 223349](https://github.com/user-attachments/assets/38396a82-b6e5-4440-857b-6b2d6150ada8)
