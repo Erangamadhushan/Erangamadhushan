@@ -6,10 +6,10 @@
 
 - ❕❕EM956❕❕
 
-![Screenshot 2024-07-15 223349](https://github.com/user-attachments/assets/38e75a4b-a0a5-4a69-ad39-9357c860c3de)
 
 
 
+![skill_rate](https://github.com/user-attachments/assets/347dee37-2f01-4b0b-9d1a-2388d5ff5f75)
 
 <!---
 Erangamad![Screenshot 2024-07-15 223349](https://github.com/user-attachments/assets/92e94710-bb2c-4093-a0b8-4671cf516560)
