@@ -11,7 +11,9 @@
 
 ![skill_rate](https://github.com/user-attachments/assets/347dee37-2f01-4b0b-9d1a-2388d5ff5f75)
 
-<!---
+[Uploading a2642b9c-b139-4abf-aed2-1a7e707a13de (1).png…]()
+<!--!
+-
 Erangamad![Screenshot 2024-07-15 223349](https://github.com/user-attachments/assets/92e94710-bb2c-4093-a0b8-4671cf516560)
 hushan/Erangamadhushan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
