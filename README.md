@@ -16,7 +16,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erangamadhushan" alt="erangamadhushan" /></a> </p>
 <h2><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tod3c3MjFrNHBtMzI3eWpib3NieTdkeWJqYWJ4Z2gxeHQxam0xYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"/>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZqejJiNWVhNTc0c2xsNzQzaHo5Y2dnbzU4cW1qOWZmb3NpZ3I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" style="width:70%;"/>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlraWc4bWRlODR3ZHRyemRxZGZrdWZpNnZiaGE4bmVra3RtOHhoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="width:60%;"/>
+
 </h2>
 - 🔭 I’m currently working on **ECSS-General-CSS-Framework**
 
