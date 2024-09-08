@@ -7,14 +7,16 @@
 
 - ❕❕EM956❕❕-->
 
-<h1 align="center">Hi 👋, I'm Eranga Madhushan</h1>
+<h1 align="center" >Hi 👋, I'm Eranga Madhushan </h1>
 <h2 align="center">I'm a BCS student in University of Ruhuna,Sri Lanka</h2>
-<h3 align="center">A passionate front-end developer from Sri Lanka </h3>
+<h3 align="center">A passionate front-end developer from Sri Lanka  </h3>
 
 <p align="left"> <a href="https://github.com/Erangamadhushan" alt="erangamadhushan" > Erangamadhushan(EM956)</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erangamadhushan" alt="erangamadhushan" /></a> </p>
-
+<h2><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tod3c3MjFrNHBtMzI3eWpib3NieTdkeWJqYWJ4Z2gxeHQxam0xYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZqejJiNWVhNTc0c2xsNzQzaHo5Y2dnbzU4cW1qOWZmb3NpZ3I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"/>
+</h2>
 - 🔭 I’m currently working on **ECSS-General-CSS-Framework**
 
 - 🌱 I’m currently learning **key concepts in javascript and several front-end frameworks and libraries(like Bootstrap,jquery,angularJS,animeJS) and also Currently I am learning C and Go programming languages 🧑‍💻**
@@ -38,7 +40,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erangamadhushan&show_icons=true&locale=en" alt="erangamadhushan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erangamadhushan&" alt="erangamadhushan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erangamadhushan&" alt="erangamadhushan" /> </p>
+<p>
+</p>
 
 
 
