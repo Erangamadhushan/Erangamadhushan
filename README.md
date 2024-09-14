@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/25121697/eranga-madhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eranga madhushan" height="30" width="40" /></a>
 <a href="https://fb.com/eranga madhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eranga madhushan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/coding hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding hub" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCbAs1DOZN4FCCiNO6pfyo2g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding hub" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
