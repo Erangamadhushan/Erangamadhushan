@@ -5,6 +5,9 @@
 - 💞️ I’m looking to collaborate on front-end development projects. I'll do my best for your project.
 - 📫 You can contact me by e-mail erangamadhushann956@gmail.com
 
+<a href="https://stackoverflow.com/users/25121697/eranga-madhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eranga madhushan" height="30" width="40" /></a>
+<a href="https://fb.com/eranga madhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eranga madhushan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCbAs1DOZN4FCCiNO6pfyo2g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding hub" height="30" width="40" /></a>
 - ❕❕EM956❕❕-->
 
 <h1 align="center">Hi 👋, I'm Eranga Madhushan</h1>
@@ -28,6 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/eranga-madhushan-78a0b8329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/eranga-madhushan-78a0b8329" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25121697/eranga-madhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eranga madhushan" height="30" width="40" /></a>
 <a href="https://fb.com/eranga madhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eranga madhushan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCbAs1DOZN4FCCiNO6pfyo2g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding hub" height="30" width="40" /></a>
@@ -41,6 +45,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erangamadhushan&show_icons=true&locale=en" alt="erangamadhushan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erangamadhushan&" alt="erangamadhushan" /></p>
+
 
 
 
