@@ -53,11 +53,10 @@
 
 
 
-![skill_rate](https://github.com/user-attachments/assets/347dee37-2f01-4b0b-9d1a-2388d5ff5f75)
+
 
 </html>
 
-![a2642b9c-b139-4abf-aed2-1a7e707a13de (1)](https://github.com/user-attachments/assets/34f06992-c9fd-4949-943b-7bee96492170)
 
 <!--!
 -
