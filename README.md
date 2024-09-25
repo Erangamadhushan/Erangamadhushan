@@ -46,6 +46,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erangamadhushan&show_icons=true&locale=en" alt="erangamadhushan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erangamadhushan&" alt="erangamadhushan" /></p>
+----> <a href="https://eranga956.blogspot.com" target="_blank">eranga956.blogspot.com</a>
 
 
 
