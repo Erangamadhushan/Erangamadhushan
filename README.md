@@ -43,7 +43,7 @@
 
 <h1>Achievments</h1>
 <p><img align="left" src="goals.png" alt="erangamadhushan_front_end_achievments" /></p>
-
+<h1></h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erangamadhushan&show_icons=true&locale=en&layout=compact" alt="erangamadhushan" /></p>
 
