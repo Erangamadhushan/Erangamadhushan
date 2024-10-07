@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/eranga-madhushan-78a0b8329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/eranga-madhushan-78a0b8329" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eranga-madhushan-78a0b8329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/eranga-madhushan-78a0b8329" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25121697/eranga-madhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eranga madhushan" height="30" width="40" /></a>
 <a href="https://fb.com/eranga madhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eranga madhushan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCbAs1DOZN4FCCiNO6pfyo2g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding hub" height="30" width="40" /></a>
