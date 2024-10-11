@@ -33,7 +33,7 @@
 
 <div>
   
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47niwx67rbq6sdm8yua3xbm98dq0iyl4h319iou6ym&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="600"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47niwx67rbq6sdm8yua3xbm98dq0iyl4h319iou6ym&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="600"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -54,32 +54,23 @@
 </p>
 
 
+
+
+
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erangamadhushan&show_icons=true&locale=en&layout=compact" alt="erangamadhushan" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erangamadhushan&show_icons=true&locale=en" alt="erangamadhushan" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erangamadhushan&" alt="erangamadhushan" /></p>
+</div>
+----> <a href="https://eranga956.blogspot.com" target="_blank">eranga956.blogspot.com</a><br/>
+----> <a href="https://t.me/neonWebDevelopers" target="_blank">Neon Web Developers </a>
+
 <div>
   <h1>Achievments</h1>
   <p><img align="left" src="goals.png" alt="erangamadhushan_front_end_achievments" /></p>
   <br/><br/>
-<hr/>
+  <hr/>
 </div>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erangamadhushan&show_icons=true&locale=en&layout=compact" alt="erangamadhushan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erangamadhushan&show_icons=true&locale=en" alt="erangamadhushan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erangamadhushan&" alt="erangamadhushan" /></p>
-----> <a href="https://eranga956.blogspot.com" target="_blank">eranga956.blogspot.com</a><br/>
-----> <a href="https://t.me/neonWebDevelopers" target="_blank">Neon Web Developers </a>
-
-
-
-
-
-
-
-
-
-
-</html>
 
 
 <!--!
