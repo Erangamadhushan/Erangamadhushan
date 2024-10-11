@@ -44,6 +44,8 @@
 <a href="https://www.youtube.com/channel/UCbAs1DOZN4FCCiNO6pfyo2g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding hub" height="30" width="40" /></a>
 <a href="https://x.com/ErangaMadh956" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000" alt="ErangaMadh956" height="30" width="40" /></a>
 <a href="https://t.me/neonWebDevelopers" target="blank"><img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" align="center" alt="neon-web-developers" height="35" width="40"/></a>
+<a href="https://https://discord.com/" target="blank"><img src="https://img.icons8.com/?size=100&id=LOWwEDik1xs8&format=png&color=000000" align="center" alt="neon-web-developers" height="35" width="40"/></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -69,7 +71,6 @@
   <h1>Achievments</h1>
   <p><img align="left" src="goals.png" alt="erangamadhushan_front_end_achievments" /></p>
   <br/><br/>
-  <hr/>
 </div>
 
 
