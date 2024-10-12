@@ -12,7 +12,7 @@
 ![img](https://github.com/user-attachments/assets/dc005b1a-0c27-4d5b-b1b8-ea6ff06893cf)
 
 <h1 align="center">Hi 👋, I'm Eranga Madhushan</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka👽👽</h3>
+<h3 align="center">A passionate frontend developer from Sri Lanka ❕❕</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=0e75b6&style=flat" alt="erangamadhushan" /> </p>
 
