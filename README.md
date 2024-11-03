@@ -29,7 +29,11 @@
 - 📫 How to reach me **by e-mail erangamadhushann956@gmail.com**
 
 - ⚡ Fun fact **Coding...**
-- <h1>Practice Makes Perfect</h1>
+
+<h1>Studying</h1>
+- Currently pursuing a degree in Computer Science at the University of Ruhuna, Sri Lanka.<br/>
+- Let's build amazing things together. 🌟
+- <h1>Remember : Practice Makes Perfect</h1>
 
 
 <!--<div>
@@ -48,13 +52,69 @@
 <a href="https://https://discord.com/" target="blank"><img src="https://img.icons8.com/?size=100&id=LOWwEDik1xs8&format=png&color=000000" align="center" alt="neon-web-developers" height="35" width="40"/></a>
 
 </p>
+<span>
+  <h3 align="left">Languages and Tools:</h3>
+  <h4>Front-End Development</h4>
+  <p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
+  <a href="#" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+  </p>
+</span>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=NeNPFdj7MzXi&format=png&color=000000" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="#" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://github.com/Erangamadhushan/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" alt="github"/></a>
-<a href="https://gitlab.com/users/Erangamadhushan/" target="_blank" rel="noreferrer"><img width="40" height="40" src="https://img.icons8.com/?size=100&id=34886&format=png&color=000000" alt="gitlab"/></a>
-<a href="#" ><img width="40" height="40" src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" alt="gitlab"/></a>
-</p>
+<span>
+  <h4>Back-End Development</h4>
+  <p align="left">
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  </p>
+</span>
+
+<span>
+  <h4>DataBase Management Systems</h4>
+  <p align="left">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  </p>
+</span>
+
+
+<span>
+  <h4>Programming Languages</h4>
+  <p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  </p>
+</span>
+
+<span>
+  <h4>Designing Tools</h4>
+  <p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=NeNPFdj7MzXi&format=png&color=000000" alt="photoshop" width="40" height="40"/> </a>
+  </p>
+</span>
+
+<span>
+  <h4>Development Tools</h4>
+  <p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+  <a href="https://github.com/Erangamadhushan/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" alt="github"/></a>
+  <a href="https://gitlab.com/users/Erangamadhushan/" target="_blank" rel="noreferrer"><img width="40" height="40" src="https://img.icons8.com/?size=100&id=34886&format=png&color=000000" alt="gitlab"/></a>
+  </p>
+</span>
+
+<span>
+  <h4>Operation System Knowladge</h4>
+  <p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="#" ><img width="40" height="40" src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" alt="gitlab"/></a>
+  </p>
+</span>
 
 
 <!--![GITHUB Stats](https://www.githubusercontent.com/Erangamadhushan/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/Erangamadhushan/github-stats/master/generated/languages.svg#gh-dark-mode-only)
