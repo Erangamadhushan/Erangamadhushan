@@ -176,6 +176,7 @@
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
+ 
 </tr>
 </table>
 
@@ -187,13 +188,17 @@
 </div>
 <table align="center" border="none">
   <tr align="center">
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <img src="https://img.icons8.com/?size=100&id=65072&format=png&color=000000"/>
       <a href="https://eranga956.blogspot.com" target="_blank">eranga956.blogspot.com</a><br/>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000"/><br/>
       <a href="https://t.me/neonWebDevelopers" target="_blank"> Neon Web Developers </a><br/>
+    </td>
+     <td width="33%" align="center">
+      <img src="https://img.icons8.com/?size=100&id=13955&format=png&color=000000" alt="stack overflow" /><br/>
+      <a href="https://img.icons8.com/?size=100&id=13955&format=png&color=000000 target="_blank" >Eranga Madhushan(EM956)</a>
     </td>
   </tr>
 </table>
