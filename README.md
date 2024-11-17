@@ -47,7 +47,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47niwx67rbq6sdm8yua3xbm98dq0iyl4h319iou6ym&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="600"/>
 </div>-->
 
-<h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me:</h3>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/eranga-madhushan-78a0b8329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/eranga-madhushan-78a0b8329" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25121697/eranga-madhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eranga madhushan" height="30" width="40" /></a>
@@ -58,6 +61,14 @@
 <a href="https://https://discord.com/" target="blank"><img src="https://img.icons8.com/?size=100&id=LOWwEDik1xs8&format=png&color=000000" align="center" alt="neon-web-developers" height="35" width="40"/></a>
 
 </p>
+    </td>
+    <td>
+      <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Erangamadhushan?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social"><br/>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Erangamadhushan?&logoColor=red&style=social"><br/>
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/Erangamadhushan/TranslatorSelenium?logoColor=red&style=social"><br/>
+    </td>
+  </tr>
+</table>
 <div style="display:flex;">
   <h1 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h1>
   <table align="center">
@@ -131,6 +142,9 @@
         </span>
       </td>
     </tr>
+  </table>
+
+  <table align="center">
     <tr align="center">
       <td width="50%" align="center">
         <span>
@@ -143,18 +157,6 @@
       </td>
     </tr>
   </table>
-
-  
-
-  
-
-
-  
-
-  
-
-  
-
   
 </div>
 
@@ -209,9 +211,7 @@
   </tr>
 </table>
 
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Erangamadhushan?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Erangamadhushan?&logoColor=red&style=social">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Erangamadhushan/TranslatorSelenium?logoColor=red&style=social">
+
 <div>
   <h1>Achievments</h1>
   <p><img align="left" src="goals.png" alt="erangamadhushan_front_end_achievments" /></p>
