@@ -23,7 +23,7 @@
 
 <table align="center">
   <tr align="center">
-    <td align="center" width="50%">
+    <td align="center">
       <h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About Me</h2>
       <p>- 🔭 I’m currently working on ** Web Pack 01 Project**</p>
       <p>- 🌱 I’m currently learning **key concepts in javascript and several front-end frameworks and libraries(like Bootstrap,jquery,angularJS,animeJS) and also Currently I am learning <span>C</span> and Go programming languages 🧑‍💻**</p>
@@ -32,11 +32,7 @@
       <p>- 📫 How to reach me **by e-mail erangamadhushann956@gmail.com**</p>
       <p>- ⚡ Fun fact **Coding...**</p>
     </td>
-    <td align="center" width="50%" padding="40px">
-    <a target="_blank" align="center">
-      <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-    </a>
-    </td>
+    
   </tr>
 </table>
 
@@ -55,7 +51,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/eranga-madhushan-78a0b8329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/eranga-madhushan-78a0b8329" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25121697/eranga-madhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eranga madhushan" height="30" width="40" /></a>
-<a href="https://fb.com/eranga madhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eranga madhushan" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/eranga madhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eranga madhushan" height="30" width="40" /></a> -->
 <a href="https://www.youtube.com/channel/UCbAs1DOZN4FCCiNO6pfyo2g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding hub" height="30" width="40" /></a>
 <!--<a href="https://x.com/ErangaMadh956" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000" alt="ErangaMadh956" height="30" width="40" /></a>-->
 <a href="https://t.me/neonWebDevelopers" target="blank"><img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" align="center" alt="neon-web-developers" height="35" width="40"/></a>
@@ -66,7 +62,7 @@
   <h1 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h1>
   <table align="center">
     <tr border="none">
-      <td width="33.33%" align="center">
+      <td width="50%" align="center">
           <span align="center">
         <h4>Front-End Development</h4>
         <p align="center"> 
@@ -79,7 +75,7 @@
         </p>
           </span>
       </td>
-      <td width="33.33%" align="center">
+      <td width="50%" align="center">
           <span>
             <h4>Back-End Development</h4>
             <p align="center">
@@ -88,21 +84,12 @@
             </p>
           </span>
       </td>
-      <td width="33.33%" align="center">
-          <span>
-            <h4>DataBase Management Systems</h4>
-            <p align="center">
-            <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-            </p>
-          </span>
-      </td>
     </tr>
     
   </table>
   <table align="center">
     <tr border="none">
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <span>
           <h4>Programming Languages</h4>
           <p align="center">
@@ -120,7 +107,18 @@
           </p>
         </span>
       </td>
-      <td width="25%" align="center">
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+          <span>
+            <h4>DataBase Management Systems</h4>
+            <p align="center">
+            <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+            </p>
+          </span>
+      </td>
+      <td width="50%" align="center">
         <span>
           <h4>Development Tools</h4>
           <p align="center">
@@ -132,7 +130,9 @@
           </p>
         </span>
       </td>
-      <td width="25%" align="center">
+    </tr>
+    <tr align="center">
+      <td width="50%" align="center">
         <span>
           <h4>Operation System Knowladge</h4>
           <p align="center">
@@ -196,9 +196,15 @@
       <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000"/><br/>
       <a href="https://t.me/neonWebDevelopers" target="_blank"> Neon Web Developers </a><br/>
     </td>
-     <td width="33%" align="center">
+  </tr>
+  <tr>
+    <td width="33%" align="center">
       <img src="https://img.icons8.com/?size=100&id=13955&format=png&color=000000" alt="stack overflow" /><br/>
       <a href="https://img.icons8.com/?size=100&id=13955&format=png&color=000000 target="_blank" >Eranga Madhushan(EM956)</a>
+    </td>
+    <td align="center">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eranga madhushan" height="80" width="80" /><br/>
+      <a href="https://img.icons8.com/?size=100&id=13955&format=png&color=000000 target="_blank" >Web Development</a>
     </td>
   </tr>
 </table>
