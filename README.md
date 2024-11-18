@@ -190,23 +190,23 @@
 </div>
 <table align="center" border="none">
   <tr align="center">
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <img src="https://img.icons8.com/?size=100&id=65072&format=png&color=000000"/>
       <a href="https://eranga956.blogspot.com" target="_blank">eranga956.blogspot.com</a><br/>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000"/><br/>
-      <a href="https://t.me/neonWebDevelopers" target="_blank"> Neon Web Developers </a><br/>
+      <a href="https://t.me/neonWebDevelopers" target="_blank"> Web Development </a><br/>
     </td>
   </tr>
   <tr>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <img src="https://img.icons8.com/?size=100&id=13955&format=png&color=000000" alt="stack overflow" /><br/>
-      <a href="https://img.icons8.com/?size=100&id=13955&format=png&color=000000 target="_blank" >Eranga Madhushan(EM956)</a>
+      <a href="https://stackoverflow.com/users/25121697/eranga-madhushan" target="_blank" >Eranga Madhushan(EM956)</a>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eranga madhushan" height="80" width="80" /><br/>
-      <a href="https://img.icons8.com/?size=100&id=13955&format=png&color=000000 target="_blank" >Web Development</a>
+      <a href="#" target="_blank" >Web Development</a>
     </td>
   </tr>
 </table>
