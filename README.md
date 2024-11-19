@@ -195,7 +195,7 @@
       <a href="https://eranga956.blogspot.com" target="_blank">eranga956.blogspot.com</a><br/>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000"/><br/>
+      <img src="logo.jpg" width="80" height="80"/><br/>
       <a href="https://t.me/neonWebDevelopers" target="_blank"> Web Development </a><br/>
     </td>
   </tr>
