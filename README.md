@@ -26,7 +26,7 @@
     <td align="center">
       <h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About Me</h2>
       <p>- 🔭 I’m currently working on ** Web Pack 01 Project**</p>
-      <p>- 🌱 I’m currently learning **key concepts in javascript and several front-end frameworks and libraries(like Bootstrap,jquery,angularJS,animeJS) and also Currently I am learning <span>C</span> and Go programming languages 🧑‍💻**</p>
+      <p>- 🌱 I’m currently learning **key concepts in javascript and several front-end frameworks and libraries(like ReactJS) and also Currently I am learning <span>Java</span> programming language 🧑‍💻**</p>
       <p>- 👯 I’m looking to collaborate on **front-end development projects. I'll do my best for your project.**</p>
       <p>- 💬 Ask me about **angularJS and jquery**</p>
       <p>- 📫 How to reach me **by e-mail erangamadhushann956@gmail.com**</p>
@@ -79,10 +79,12 @@
         <p align="center"> 
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+          <a href="" target="_blank"><img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" alt="tailwindcss" width="40" height="40"/></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="bootstrap" width="40" height="40"/> </a>
         <a href="https://angular.io" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
         <a href="#" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+          <a href="#"> <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="reactJS" width="40" height="40"/></a>
         </p>
           </span>
       </td>
@@ -90,7 +92,7 @@
           <span>
             <h4>Back-End Development</h4>
             <p align="center">
-            <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+<!--             <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> -->
             <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
             </p>
           </span>
@@ -218,7 +220,7 @@
   <br/><br/>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p>Last Edited on 17/11/2024</p>
+<p>Last Edited on 29/11/2024</p>
 <!--!
 -
 Erangamad![Screenshot 2024-07-15 223349](https://github.com/user-attachments/assets/92e94710-bb2c-4093-a0b8-4671cf516560)
