@@ -184,14 +184,16 @@
  
 </tr>
 </table>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erangamadhushan&theme=tokyonight" alt="GitHub Stats" width="330" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erangamadhushan&theme=tokyonight&utcOffset=5" alt="Most Productive Time" width="330" />
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erangamadhushan&theme=tokyonight" alt="Most Used Languages" width="330" /> -->
+</p>
 
-
-<div>
-<!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erangamadhushan&show_icons=true&locale=en&layout=compact" alt="erangamadhushan" /></p> -->
-<!--   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erangamadhushan&show_icons=true&locale=en" alt="erangamadhushan" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erangamadhushan&" alt="erangamadhushan" /></p> -->
-</div>
-<table align="center" border="none">
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erangamadhushan&theme=tokyonight" alt="Profile Details" width="1000" />
+</p>
+<!-- <table align="center" border="none">
   <tr align="center">
     <td align="center" width="50%">
       <img src="https://img.icons8.com/?size=100&id=65072&format=png&color=000000"/>
@@ -212,7 +214,7 @@
       <a href="https://www.facebook.com/share/g/14N2QMFmTf/" target="_blank" >Web Development</a>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 <div>
@@ -221,7 +223,7 @@
   <br/><br/>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p>Last Edited on 29/11/2024</p>
+<p>Last Edited on 14/12/2024</p>
 <!--!
 -
 Erangamad![Screenshot 2024-07-15 223349](https://github.com/user-attachments/assets/92e94710-bb2c-4093-a0b8-4671cf516560)
