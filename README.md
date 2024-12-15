@@ -15,7 +15,7 @@
 <h1 align="center">Hi 👋, I'm Eranga Madhushan</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka ❕❕</h3>
 <h2 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=tokyonight&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="erangamadhushan" /> </p>
 
@@ -27,7 +27,7 @@
     <td align="center">
       <h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About Me</h2>
       <p>- 🔭 I’m currently working on ** Web Pack 01 Project**</p>
-      <p>- 🌱 I’m currently learning **key concepts in javascript and several front-end frameworks and libraries(like ReactJS) and also Currently I am learning <span>Java</span> programming language 🧑‍💻**</p>
+      <p>- 🌱 I’m currently learning **key concepts in javascript and several front-end frameworks and libraries(like ReactJS, TypeScript) and also Currently I am learning <span>Java</span> programming language 🧑‍💻**</p>
       <p>- 👯 I’m looking to collaborate on **front-end development projects. I'll do my best for your project.**</p>
       <p>- 💬 Ask me about **angularJS and jquery**</p>
       <p>- 📫 How to reach me **by e-mail erangamadhushann956@gmail.com**</p>
@@ -86,6 +86,7 @@
         <a href="https://angular.io" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
         <a href="#" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
           <a href="#"> <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="reactJS" width="40" height="40"/></a>
+          <a href="#"><img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="typescript" width="40" height="40"/></a>
         </p>
           </span>
       </td>
@@ -93,7 +94,7 @@
           <span>
             <h4>Back-End Development</h4>
             <p align="center">
-<!--             <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> -->
+            <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
             <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
             </p>
           </span>
@@ -109,6 +110,7 @@
           <p align="center">
           <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
           <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+            <a href="#"><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="java programming" width="40" height="40"/></a>
           </p>
         </span>
       </td>
@@ -117,6 +119,7 @@
           <h4>Designing Tools</h4>
           <p align="center">
           <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+          <a href="#" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=cAVP5AOANxnf&format=png&color=000000" alt="lightroom" width="40" height="40"/></a>
           <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=NeNPFdj7MzXi&format=png&color=000000" alt="photoshop" width="40" height="40"/> </a>
           </p>
         </span>
@@ -223,7 +226,7 @@
   <br/><br/>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p>Last Edited on 14/12/2024</p>
+<p>Last Edited on 15/12/2024</p>
 <!--!
 -
 Erangamad![Screenshot 2024-07-15 223349](https://github.com/user-attachments/assets/92e94710-bb2c-4093-a0b8-4671cf516560)
