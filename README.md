@@ -226,14 +226,11 @@ counting of visitors to this page in this section started from Mar 16, 2023
   <p><img align="left" src="goals.png" alt="erangamadhushan_front_end_achievments" /></p>
   <br/><br/>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="github-wrapped.png" alt="2024 performance in my github profile"/>
 <h1 align="center">Thanks for watching my profile</h1>
 <p align="center"><img src="https://github.com/user-attachments/assets/e599b0c5-b812-4e11-908a-2bdec8c97c5f" alt="Erangamadhushan"/></p>
 <p>Last Edited on 7/01/2025</p>
-<img src="https://api.githubtrends.io/user/svg/Erangamadhushan/langs?time_range=six_months&theme=dark"/>
-<img src="github-wrapped.png" alt="2024 performance in my github profile"/>
 <!--!
-
 -
 Erangamad![Screenshot 2024-07-15 223349](https://github.com/user-attachments/assets/92e94710-bb2c-4093-a0b8-4671cf516560)
 hushan/Erangamadhushan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
