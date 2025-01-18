@@ -30,10 +30,10 @@ counting of visitors to this page in this section started from Mar 16, 2023
     <td align="center">
       <h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About Me</h2>
       <p>- 🔭 I’m currently working on ** Web Pack 01 Project**</p>
-      <p>- 🌱 I’m currently learning **key concepts in javascript and several front-end frameworks and libraries(like ReactJS, TypeScript) and also Currently I am learning <span>Java</span> programming language 🧑‍💻**</p>
+      <p>- 🌱 I’m currently learning **key concepts in javascript and several front-end frameworks and libraries(like ReactJS, TypeScript) and also Currently I am learning <span>NodeJs</span> and <span>Java</span> programming language 🧑‍💻**</p>
       <p>- 👯 I’m looking to collaborate on **front-end development projects. I'll do my best for your project.**</p>
       <p>- 💬 Ask me about **angularJS and jquery**</p>
-      <p>- 📫 How to reach me **by e-mail erangamadhushann956@gmail.com**</p>
+      <p>- 📫 How to reach me **by e-mail <a href="mailto:erangamadhushann956@gmail.com">erangamadhushann956@gmail.com</a>**</p>
       <p>- ⚡ Fun fact **Coding...**</p>
     </td>
     
@@ -90,6 +90,7 @@ counting of visitors to this page in this section started from Mar 16, 2023
         <a href="#" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
           <a href="#"> <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="reactJS" width="40" height="40"/></a>
           <a href="#"><img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="typescript" width="40" height="40"/></a>
+          <a href="#"><img src="https://img.icons8.com/?size=100&id=HKNzD81eiiSc&format=png&color=000000" alt="jquery" width="40" height="40"/></a>
         </p>
           </span>
       </td>
@@ -229,7 +230,7 @@ counting of visitors to this page in this section started from Mar 16, 2023
 <img src="github-wrapped.png" alt="2024 performance in my github profile"/>
 <h1 align="center">Thanks for watching my profile</h1>
 <p align="center"><img src="https://github.com/user-attachments/assets/e599b0c5-b812-4e11-908a-2bdec8c97c5f" alt="Erangamadhushan"/></p>
-<p>Last Edited on 7/01/2025</p>
+<p>Last Edited on 18/01/2025</p>
 <!--!
 -
 Erangamad![Screenshot 2024-07-15 223349](https://github.com/user-attachments/assets/92e94710-bb2c-4093-a0b8-4671cf516560)
