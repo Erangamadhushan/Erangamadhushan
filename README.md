@@ -21,7 +21,7 @@ Profile Views<br/>
 counting of visitors to this page in this section started from Mar 16, 2023
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="erangamadhushan" /> </p>
 <!-- <p><img src="https://visitcount.itsvg.in/api?id=Erangamadhushan&label=profile-views&pretty=true" alt="Erangamadhushan"/></p> -->
-<table align="center"> <tr align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erangamadhushan" alt="erangamadhushan" /></a> </tr></table>
+<!-- <table align="center"> <tr align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erangamadhushan" alt="erangamadhushan" /></a> </tr></table> -->
 <h1 align="center" bgcolor="red"><a href="https://web-app-with-vercel.vercel.app/" alt="myvercel application">Connect with my Resource Collection 😉😉 </a></h1>
 
 <h3 align="center"><a href="https://www.facebook.com/share/g/13yoiqPz4i/" alt="facebookgroup">Join With Facebook Group</a></h3>
@@ -66,15 +66,15 @@ counting of visitors to this page in this section started from Mar 16, 2023
 
 </p>
     </td>
-    <td>
+<!--     <td>
       <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Erangamadhushan?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social"><br/>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Erangamadhushan?&logoColor=red&style=social"><br/>
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/Erangamadhushan/TranslatorSelenium?logoColor=red&style=social"><br/>
-    </td>
+    </td> -->
   </tr>
 </table>
 <div style="display:flex;">
-  <h1 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h1>
+<!--   <h1 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h1>
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
@@ -104,9 +104,8 @@ counting of visitors to this page in this section started from Mar 16, 2023
           </span>
       </td>
     </tr>
-    
-  </table>
-  <table align="center">
+  </table> -->
+<!--   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
         <span>
@@ -152,9 +151,8 @@ counting of visitors to this page in this section started from Mar 16, 2023
         </span>
       </td>
     </tr>
-  </table>
-
-  <table align="center">
+  </table> -->
+<!--   <table align="center">
     <tr align="center">
       <td width="50%" align="center">
         <span>
@@ -167,8 +165,7 @@ counting of visitors to this page in this section started from Mar 16, 2023
       </td>
     </tr>
   </table>
-  
-</div>
+</div> -->
 
 
 <!--![GITHUB Stats](https://www.githubusercontent.com/Erangamadhushan/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/Erangamadhushan/github-stats/master/generated/languages.svg#gh-dark-mode-only)
@@ -227,10 +224,12 @@ counting of visitors to this page in this section started from Mar 16, 2023
   <p><img align="left" src="goals.png" alt="erangamadhushan_front_end_achievments" /></p>
   <br/><br/>
 </div>
-<img src="github-wrapped.png" alt="2024 performance in my github profile"/>
-<h1 align="center">Thanks for watching my profile</h1>
-<p align="center"><img src="https://github.com/user-attachments/assets/e599b0c5-b812-4e11-908a-2bdec8c97c5f" alt="Erangamadhushan"/></p>
+<!-- <img src="github-wrapped.png" alt="2024 performance in my github profile"/> -->
+<div>
+<!--   <h1 align="center">Thanks for watching my profile</h1>
+<p align="center"><img src="https://github.com/user-attachments/assets/e599b0c5-b812-4e11-908a-2bdec8c97c5f" alt="Erangamadhushan"/></p> -->
 <p>Last Edited on 22/01/2025</p>
+</div>
 <!--!
 -
 Erangamad![Screenshot 2024-07-15 223349](https://github.com/user-attachments/assets/92e94710-bb2c-4093-a0b8-4671cf516560)
