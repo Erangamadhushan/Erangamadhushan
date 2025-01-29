@@ -20,6 +20,8 @@
 Profile Views<br/>
 counting of visitors to this page in this section started from Mar 16, 2023
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="erangamadhushan" /> </p>
+<p><img src="https://user-badge.committers.top/sri_lanka/Erangamadhushan.svg"/></p>
+<p><img src="https://user-badge.committers.top/sri_lanka/Erangamadhushan"/></p>
 <!-- <p><img src="https://visitcount.itsvg.in/api?id=Erangamadhushan&label=profile-views&pretty=true" alt="Erangamadhushan"/></p> -->
 <!-- <table align="center"> <tr align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erangamadhushan" alt="erangamadhushan" /></a> </tr></table> -->
 <h1 align="center" bgcolor="red"><a href="https://web-app-with-vercel.vercel.app/" alt="myvercel application">Connect with my Resource Collection 😉😉 </a></h1>
