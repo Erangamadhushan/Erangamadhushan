@@ -2,7 +2,7 @@
 ![img](https://github.com/user-attachments/assets/dc005b1a-0c27-4d5b-b1b8-ea6ff06893cf)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 >Hello Everyone 👋,</h1>
-<img src="https://capsule-render.vercel.app/api?type=venom&height=400&color=gradient&text=I%20am%20Eranga%20Madhushan"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=I%20am%20Eranga%20Madhushan"/>
 <h2 align="center">A passionate fullstack developer from Sri Lanka ❕❕</h2>
 <h2 align="center" color="#fff">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=tokyonight&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer,;Computer+Science+Undergraduate,;Active+Learner/Researcher,;JavaScript+Developer,;Love+to+learn+new+stuffs..<3"></a>
@@ -118,7 +118,11 @@ counting of visitors to this page in this section started from Mar 16, 2023
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erangamadhushan&theme=tokyonight" alt="Profile Details" width="1000" />
 </p>
+<div align="center">
 
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erangamadhushan&theme=redical)](https://github.com/Erangamadhushan)  
+
+</div>
 <img src="https://github.com/Erangamadhushan/Erangamadhushan/assets/124744833/c9ab9de8-7884-479e-8adc-68bd989d9337"/>
 <div>
   <h1>Achievments</h1>
