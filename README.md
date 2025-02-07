@@ -42,7 +42,7 @@ counting of visitors to this page in this section started from Mar 16, 2023
 </div>-->
 
 
-## Contact ME 😥 <br>
+## Contact ME 😊 <br>
    
 <p align="center">
   
@@ -56,20 +56,20 @@ counting of visitors to this page in this section started from Mar 16, 2023
 <table align="center">
   <thead>
     <th>Title</th>
-    <th>Icon</th>
+    <th>Skills</th>
   </thead>
   <tbody>
     <tr>
       <td>Social Media</td>
-      <td><img src="https://skillicons.dev/icons?i=linkedin,stackoverflow,facebook" /></td>
+      <td><img src="https://skillicons.dev/icons?i=linkedin,stackoverflow,twitter,.dev" /></td>
     </tr>
     <tr>
       <td>IDE's</td>
-      <td> <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode,netbean" /></td>
+      <td> <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode,netbeans" /></td>
     </tr>
     <tr>
       <td>Front End</td>
-      <td><img src="https://skillicons.dev/icons?i=html,bootstrap,css,tailwind,materialui,js,jquery,react,ts," /></td>
+      <td><img src="https://skillicons.dev/icons?i=html,bootstrap,css,tailwind,materialui,js,jquery,react,ts,angular,sass,less,md" /></td>
     </tr>
     <tr>
       <td>Back End</td>
@@ -81,11 +81,15 @@ counting of visitors to this page in this section started from Mar 16, 2023
     </tr>
     <tr>
       <td>Others</td>
-      <td><img src="https://skillicons.dev/icons?i=discord,git,github,maven,postman,powershell,bash,gitlab" /></td>
+      <td><img src="https://skillicons.dev/icons?i=discord,git,github,maven,postman,powershell,bash,gitlab,octave,matlab,npm,latex,notion" /></td>
     </tr>
     <tr>
       <td>Favourite</td>
-      <td> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,materialui,js,jquery,ts,express,nodejs,mongodb" /></td>
+      <td> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vite,tailwind,materialui,js,jquery,ts,angular,c,nodejs,mongodb" /></td>
+    </tr>
+    <tr>
+      <td>Operating System</td>
+      <td> <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali" /></td>
     </tr>
   </tbody>
 </table>
