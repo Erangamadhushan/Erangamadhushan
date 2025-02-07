@@ -19,7 +19,7 @@ counting of visitors to this page in this section started from Mar 16, 2023
   <tr align="center">
     <td align="center">
       <h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About Me</h2>
-      <p>- 🔭 I’m currently working on ** Web Pack 01 Project**</p>
+      <p>- 🔭 I’m currently working on ** WebAPIOverflow Project and EMCSS General Purpose CSS Framework Project**</p>
       <p>- 🌱 I’m currently learning **key concepts in javascript and several front-end frameworks and libraries(like ReactJS, TypeScript) and also Currently I am learning <span>NodeJs</span> and <span>Java</span> programming language 🧑‍💻**</p>
       <p>- 👯 I’m looking to collaborate on **front-end development projects. I'll do my best for your project.**</p>
       <p>- 💬 Ask me about **angularJS and jquery**</p>
@@ -65,7 +65,7 @@ counting of visitors to this page in this section started from Mar 16, 2023
     </tr>
     <tr>
       <td>IDE's</td>
-      <td> <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode,netbeans" /></td>
+      <td> <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode,atom" /></td>
     </tr>
     <tr>
       <td>Front End</td>
@@ -132,5 +132,5 @@ counting of visitors to this page in this section started from Mar 16, 2023
 
 
 </div>
-<p>Last Edited on 06/02/2025</p>
+<p>Last Edited on 07/02/2025</p>
 
