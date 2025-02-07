@@ -100,7 +100,7 @@ counting of visitors to this page in this section started from Mar 16, 2023
 <tr border="none">
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&show_icons=true&theme=tokyonight&show=reviews,prs_merged,prs_merged_percentage&hide=contribs"/>
-<!--   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&theme=tokyonight&show_icons=true&count_private=true" /> -->
+
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Erangamadhushan&icon_color=6FDA44&theme=tokyonight&hide_border=false" /> 
 </td>
@@ -122,18 +122,14 @@ counting of visitors to this page in this section started from Mar 16, 2023
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erangamadhushan&theme=tokyonight" alt="Profile Details" width="1000" />
 </p>
-<div align="center">
 
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erangamadhushan&theme=redical)](https://github.com/Erangamadhushan)  
-
-</div>
 <img src="https://github.com/Erangamadhushan/Erangamadhushan/assets/124744833/c9ab9de8-7884-479e-8adc-68bd989d9337"/>
 <div>
   <h1>Achievments</h1>
   <p><img align="left" src="goals.png" alt="erangamadhushan_front_end_achievments" /></p>
   <br/><br/>
 </div>
-<div>
+
 
 </div>
 <p>Last Edited on 06/02/2025</p>
