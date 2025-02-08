@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 >Hello Everyone 👋,</h1>
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=I%20am%20Eranga%20Madhushan"/>
-<h2 align="center">A passionate fullstack developer from Sri Lanka ❕❕</h2>
+<h2 align="center">A passionate FullStack Developer from Sri Lanka ❕❕</h2>
 <h2 align="center" color="#fff">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=tokyonight&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer,;Computer+Science+Undergraduate,;Active+Learner/Researcher,;JavaScript+Developer,;Love+to+learn+new+stuffs..<3"></a>
 </h2>
@@ -146,6 +146,6 @@ counting of visitors to this page in this section started from Mar 16, 2023
 </div>
 
 <div>
-<p>Last Edited on 07/02/2025</p>
+<p>Last Edited on 08/02/2025</p>
 </div>
 
