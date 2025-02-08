@@ -99,15 +99,15 @@ counting of visitors to this page in this section started from Mar 16, 2023
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&show_icons=true&theme=tokyonight&show=reviews,prs_merged,prs_merged_percentage&hide=contribs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&show_icons=true&theme=blue-green&show=reviews,prs_merged,prs_merged_percentage&hide=contribs"/>
 
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Erangamadhushan&icon_color=6FDA44&theme=tokyonight&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Erangamadhushan&icon_color=6FDA44&theme=blue-green&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=blue-green&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
  
@@ -123,14 +123,29 @@ counting of visitors to this page in this section started from Mar 16, 2023
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erangamadhushan&theme=tokyonight" alt="Profile Details" width="1000" />
 </p>
 
-<img src="https://github.com/Erangamadhushan/Erangamadhushan/assets/124744833/c9ab9de8-7884-479e-8adc-68bd989d9337"/>
+<div align="center">
+
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erangamadhushan&theme=redical)](https://github.com/Erangamadhushan)  
+<!--redical-->
+</div>
 <div>
   <h1>Achievments</h1>
   <p><img align="left" src="goals.png" alt="erangamadhushan_front_end_achievments" /></p>
   <br/><br/>
 </div>
 
-
+<h5 align="center">
+𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
+𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 nice 𝚍𝚊𝚢 ! 
+</h5>
+<div align="center">
+  
+![repo size](https://img.shields.io/github/repo-size/Erangamadhushan/Erangamadhushan?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+![GitHub stars](https://img.shields.io/github/stars/Erangamadhushan/Erangamadhushan?&labelColor=black&color=f7b731&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/Erangamadhushan/Erangamadhushan?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 </div>
+
+<div>
 <p>Last Edited on 07/02/2025</p>
+</div>
 
