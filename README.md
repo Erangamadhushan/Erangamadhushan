@@ -99,15 +99,15 @@ counting of visitors to this page in this section started from Mar 16, 2023
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&show_icons=true&theme=blue-green&show=reviews,prs_merged,prs_merged_percentage&hide=contribs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&show_icons=true&theme=react&show=reviews,prs_merged,prs_merged_percentage&hide=contribs"/>
 
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Erangamadhushan&icon_color=6FDA44&theme=blue-green&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Erangamadhushan&icon_color=6FDA44&theme=react&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=blue-green&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
  
@@ -134,10 +134,10 @@ counting of visitors to this page in this section started from Mar 16, 2023
   <br/><br/>
 </div>
 
-<h5 align="center">
+<h3 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
 𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 nice 𝚍𝚊𝚢 ! 
-</h5>
+</h3>
 <div align="center">
   
 ![repo size](https://img.shields.io/github/repo-size/Erangamadhushan/Erangamadhushan?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
@@ -146,6 +146,6 @@ counting of visitors to this page in this section started from Mar 16, 2023
 </div>
 
 <div>
-<p>Last Edited on 10/02/2025</p>
+<p>Last Edited on 14/02/2025</p>
 </div>
 
