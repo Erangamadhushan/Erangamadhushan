@@ -69,7 +69,9 @@ counting of visitors to this page in this section started from Mar 16, 2023
     </tr>
     <tr>
       <td>Front End</td>
-      <td><img src="https://skillicons.dev/icons?i=html,bootstrap,css,tailwind,materialui,js,jquery,react,ts,angular,sass,less,md" /></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=html,bootstrap,css,tailwind,materialui,js,jquery,react,ts,angular,sass,less,md" />
+      </td>
     </tr>
     <tr>
       <td>Back End</td>
@@ -99,28 +101,28 @@ counting of visitors to this page in this section started from Mar 16, 2023
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&show_icons=true&theme=react&show=reviews,prs_merged,prs_merged_percentage&hide=contribs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&hide=contribs"/>
 
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Erangamadhushan&icon_color=6FDA44&theme=react&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Erangamadhushan&icon_color=6FDA44&theme=radical&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  <!--<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=20"/>-->
+  <img alt="most used languages" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erangamadhushan&amp;count_private=true&amp;theme=radical&amp;layout=compact&amp;border_radius=8&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c">
   </td>
  
 </tr>
 </table>
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erangamadhushan&theme=tokyonight" alt="GitHub Stats" width="330" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erangamadhushan&theme=tokyonight&utcOffset=5" alt="Most Productive Time" width="330" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erangamadhushan&theme=radical" alt="GitHub Stats" width="330" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erangamadhushan&theme=radical&utcOffset=5" alt="Most Productive Time" width="330" />
 <!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erangamadhushan&theme=tokyonight" alt="Most Used Languages" width="330" /> -->
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erangamadhushan&theme=tokyonight" alt="Profile Details" width="1000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erangamadhushan&theme=radical" alt="Profile Details" width="1000" />
 </p>
 
 <div align="center">
@@ -134,10 +136,10 @@ counting of visitors to this page in this section started from Mar 16, 2023
   <br/><br/>
 </div>
 
-<h3 align="center">
+<h1 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
-𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 nice 𝚍𝚊𝚢 ! 
-</h3>
+𝙷𝚊𝚟𝚎 𝚊 nice 𝚍𝚊𝚢 ! 
+</h1>
 <div align="center">
   
 ![repo size](https://img.shields.io/github/repo-size/Erangamadhushan/Erangamadhushan?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
@@ -146,6 +148,7 @@ counting of visitors to this page in this section started from Mar 16, 2023
 </div>
 
 <div>
-<p>Last Edited on 14/02/2025</p>
+<p>Last Edited on 17/02/2025</p>
 </div>
+
 
