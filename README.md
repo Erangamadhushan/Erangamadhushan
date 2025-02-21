@@ -8,13 +8,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=tokyonight&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer,;Computer+Science+Undergraduate,;Active+Learner/Researcher,;JavaScript+Developer,;Love+to+learn+new+stuffs..<3"></a>
 </h2>
 Profile Views<br/>
-counting of visitors to this page in this section started from Mar 16, 2023
+counting of visitors to this page in this section started on Mar 16, 2023
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="erangamadhushan" /> </p>
 <h3>Commiters.top Rank in Sri Lanka</h3>
 <p><img src="https://user-badge.committers.top/sri_lanka/Erangamadhushan.svg"/></p>
 <h1 align="center" bgcolor="red"><a href="https://web-app-with-vercel.vercel.app/" alt="myvercel application">Connect with my Resource Collection 😉😉 </a></h1>
 
-<h3 align="center"><a href="https://www.facebook.com/share/g/13yoiqPz4i/" alt="facebookgroup">Join With Facebook Group</a></h3>
+<h3 align="center"><a href="https://www.facebook.com/share/g/13yoiqPz4i/" alt="Facebook group">Join With Facebook Group</a></h3>
 <table align="center">
   <tr align="center">
     <td align="center">
@@ -53,7 +53,7 @@ counting of visitors to this page in this section started from Mar 16, 2023
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)
 ![FaceBook](https://img.shields.io/badge/FaceBook-blue?logo=FaceBook&logoColor=white&style=for-the-badge)
 </p>
-<table align="center">
+<!-- <table align="center">
   <thead>
     <th>Title</th>
     <th>Skills</th>
@@ -94,8 +94,8 @@ counting of visitors to this page in this section started from Mar 16, 2023
       <td> <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali" /></td>
     </tr>
   </tbody>
-</table>
-
+</table> -->
+<!--
 <div style="display:flex;">
 <h1>Github Performances</h1>
 <table align="center">
@@ -103,14 +103,14 @@ counting of visitors to this page in this section started from Mar 16, 2023
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&hide=contribs"/>
 
-  <br></br>
+ <!-- <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Erangamadhushan&icon_color=6FDA44&theme=radical&hide_border=false" /> 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center">-->
 
   <!--<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=20"/>-->
-  <img alt="most used languages" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erangamadhushan&amp;count_private=true&amp;theme=radical&amp;layout=compact&amp;border_radius=8&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c">
+ <!-- <img alt="most used languages" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erangamadhushan&amp;count_private=true&amp;theme=radical&amp;layout=compact&amp;border_radius=8&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c">
   </td>
  
 </tr>
@@ -119,7 +119,7 @@ counting of visitors to this page in this section started from Mar 16, 2023
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erangamadhushan&theme=radical" alt="GitHub Stats" width="330" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erangamadhushan&theme=radical&utcOffset=5" alt="Most Productive Time" width="330" />
 <!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erangamadhushan&theme=tokyonight" alt="Most Used Languages" width="330" /> -->
-</p>
+<!--</p>
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erangamadhushan&theme=radical" alt="Profile Details" width="1000" />
@@ -129,7 +129,7 @@ counting of visitors to this page in this section started from Mar 16, 2023
 
   [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erangamadhushan&theme=redical)](https://github.com/Erangamadhushan)  
 <!--redical-->
-</div>
+<!--</div>
 <div>
   <h1>Achievments</h1>
   <p><img align="left" src="goals.png" alt="erangamadhushan_front_end_achievments" /></p>
@@ -150,5 +150,4 @@ counting of visitors to this page in this section started from Mar 16, 2023
 <div>
 <p>Last Edited on 17/02/2025</p>
 </div>
-
-
+-->
