@@ -95,39 +95,39 @@ counting of visitors to this page in this section started on Mar 16, 2023
     </tr>
   </tbody>
 </table> -->
-<!--
-<div style="display:flex;">
+
+<!--<div style="display:flex;">
 <h1>Github Performances</h1>
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&hide=contribs"/>
 
- <!-- <br></br>
+  <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Erangamadhushan&icon_color=6FDA44&theme=radical&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">-->
 
-  <!--<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=20"/>-->
- <!-- <img alt="most used languages" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erangamadhushan&amp;count_private=true&amp;theme=radical&amp;layout=compact&amp;border_radius=8&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c">
+  <!--<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=20"/>
+  <img alt="most used languages" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erangamadhushan&amp;count_private=true&amp;theme=radical&amp;layout=compact&amp;border_radius=8&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c">
   </td>
  
 </tr>
-</table>
-<p align="left">
+</table>-->
+<!--<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erangamadhushan&theme=radical" alt="GitHub Stats" width="330" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erangamadhushan&theme=radical&utcOffset=5" alt="Most Productive Time" width="330" />
 <!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erangamadhushan&theme=tokyonight" alt="Most Used Languages" width="330" /> -->
 <!--</p>
 
-<p align="left">
+<!--<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erangamadhushan&theme=radical" alt="Profile Details" width="1000" />
 </p>
 
 <div align="center">
 
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erangamadhushan&theme=redical)](https://github.com/Erangamadhushan)  
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erangamadhushan&theme=redical)](https://github.com/Erangamadhushan)  -->
 <!--redical-->
 <!--</div>
 <div>
@@ -148,6 +148,6 @@ counting of visitors to this page in this section started on Mar 16, 2023
 </div>
 
 <div>
-<p>Last Edited on 17/02/2025</p>
+<p>Last Edited on 23/02/2025</p>
 </div>
 -->
