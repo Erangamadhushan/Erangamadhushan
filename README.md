@@ -96,7 +96,7 @@ counting of visitors to this page in this section started on Mar 16, 2023
   </tbody>
 </table> -->
 
-<!--<div style="display:flex;">
+<<div style="display:flex;">
 <h1>Github Performances</h1>
 <table align="center">
 <tr border="none">
@@ -107,14 +107,14 @@ counting of visitors to this page in this section started on Mar 16, 2023
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Erangamadhushan&icon_color=6FDA44&theme=radical&hide_border=false" /> 
 </td>
 
-<td width="50%" align="center">-->
+<td width="50%" align="center">
 
-  <!--<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=20"/>
+  <!--<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=20"/>-->
   <img alt="most used languages" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erangamadhushan&amp;count_private=true&amp;theme=radical&amp;layout=compact&amp;border_radius=8&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c">
   </td>
  
 </tr>
-</table>-->
+</table>
 <!--<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erangamadhushan&theme=radical" alt="GitHub Stats" width="330" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erangamadhushan&theme=radical&utcOffset=5" alt="Most Productive Time" width="330" />
@@ -148,6 +148,6 @@ counting of visitors to this page in this section started on Mar 16, 2023
 </div>
 
 <div>
-<p>Last Edited on 23/02/2025</p>
 </div>
 -->
+<p>Last Edited on 26/02/2025</p>
