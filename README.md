@@ -37,7 +37,6 @@ counting of visitors to this page in this section started on Mar 16, 2023
 
 
 <!--<div>
-  
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47niwx67rbq6sdm8yua3xbm98dq0iyl4h319iou6ym&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="600"/>
 </div>-->
 
@@ -115,25 +114,25 @@ counting of visitors to this page in this section started on Mar 16, 2023
  
 </tr>
 </table>
-<!--<p align="left">
+<<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erangamadhushan&theme=radical" alt="GitHub Stats" width="330" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erangamadhushan&theme=radical&utcOffset=5" alt="Most Productive Time" width="330" />
-<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erangamadhushan&theme=tokyonight" alt="Most Used Languages" width="330" /> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erangamadhushan&theme=tokyonight" alt="Most Used Languages" width="330" /> 
 <!--</p>
 
-<!--<p align="left">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erangamadhushan&theme=radical" alt="Profile Details" width="1000" />
 </p>
 
 <div align="center">
 
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erangamadhushan&theme=redical)](https://github.com/Erangamadhushan)  -->
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erangamadhushan&theme=redical)](https://github.com/Erangamadhushan) 
 <!--redical-->
-<!--</div>
+</div>
 <div>
   <h1>Achievments</h1>
-  <p><img align="left" src="goals.png" alt="erangamadhushan_front_end_achievments" /></p>
-  <br/><br/>
+  <!--<p><img align="left" src="goals.png" alt="erangamadhushan_front_end_achievments" /></p>
+  <br/><br/>-->
 </div>
 
 <h1 align="center">
@@ -149,5 +148,5 @@ counting of visitors to this page in this section started on Mar 16, 2023
 
 <div>
 </div>
--->
-<p>Last Edited on 26/02/2025</p>
+
+<p>Last Edited on 02/03/2025</p>
