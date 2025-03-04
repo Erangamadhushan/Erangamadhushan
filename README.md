@@ -1,6 +1,6 @@
 
 ![img](https://github.com/user-attachments/assets/dc005b1a-0c27-4d5b-b1b8-ea6ff06893cf)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 >Hello Everyone 👋,</h1>
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=I%20am%20Eranga%20Madhushan"/>
 <h2 align="center">A passionate FullStack Developer from Sri Lanka ❕❕</h2>
@@ -37,7 +37,7 @@ counting of visitors to this page in this section started on Mar 16, 2023
 
 
 <div>
- <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47niwx67rbq6sdm8yua3xbm98dq0iyl4h319iou6ym&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="600"/>-->
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47niwx67rbq6sdm8yua3xbm98dq0iyl4h319iou6ym&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="600">
 </div>
 
 
@@ -52,7 +52,7 @@ counting of visitors to this page in this section started on Mar 16, 2023
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)
 ![FaceBook](https://img.shields.io/badge/FaceBook-blue?logo=FaceBook&logoColor=white&style=for-the-badge)
 </p>
-<!-- <table align="center">
+<table align="center">
   <thead>
     <th>Title</th>
     <th>Skills</th>
@@ -93,7 +93,7 @@ counting of visitors to this page in this section started on Mar 16, 2023
       <td> <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali" /></td>
     </tr>
   </tbody>
-</table> -->
+</table> 
 
 <div style="display:flex;">
 <h1>Github Performances</h1>
@@ -108,7 +108,7 @@ counting of visitors to this page in this section started on Mar 16, 2023
 
 <td width="50%" align="center">
 
-  <!--<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=20"/>-->
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=20"/>
   <img alt="most used languages" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erangamadhushan&amp;count_private=true&amp;theme=radical&amp;layout=compact&amp;border_radius=8&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c">
   </td>
  
@@ -127,12 +127,11 @@ counting of visitors to this page in this section started on Mar 16, 2023
 <div align="center">
 
   [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erangamadhushan&theme=redical)](https://github.com/Erangamadhushan) 
-<!--redical-->
 </div>
 <div>
   <h1>Achievments</h1>
-  <!--<p><img align="left" src="goals.png" alt="erangamadhushan_front_end_achievments" /></p>
-  <br/><br/>-->
+  <p><img align="left" src="goals.png" alt="erangamadhushan_front_end_achievments" /></p>
+  <br/><br/>
 </div>
 
 <h1 align="center">
@@ -150,3 +149,63 @@ counting of visitors to this page in this section started on Mar 16, 2023
 </div>
 
 <p>Last Edited on 04/03/2025</p>
+-->
+
+<!-- ============================================================================================================================================================ -->
+## Hi there 👋
+<h1 align="center">I'm Eranga Madhushan. BCS Student at University of Ruhuna, Sri Lanka.</h1>
+
+<!--
+**Eranga2002/Eranga2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+🎓 Computer Science Student | Active Researcher @ Magically Delicious | 🌐 Front-End Developer
+
+## 🔧 Technologies & Tools
+- Languages: HTML, CSS, JavaScript
+- Frameworks: React, TailwindCSS
+- Tools: VS Code, Git, Figma
+
+<!--## 🚀 Projects
+- [Project Name](link-to-project) - Description
+- [Magically Delicious](link-to-business-site) - My cupcake business-->
+
+## 🌱 Fun Facts
+- I’m currently learning reactJS and  Java Programming
+- I love baking and coding!
+
+<!--- <h2 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="Eranga2002" /> </p>
+
+<table align="center"> <tr align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Erangamadhushan" alt="Eranga2002" /></a> </tr></table>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&theme=tokyonight&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Erangamadhushan&icon_color=6FDA44&theme=tokyonight&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+ 
+</tr>
+</table>-->
