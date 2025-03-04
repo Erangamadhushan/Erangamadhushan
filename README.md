@@ -154,7 +154,7 @@ counting of visitors to this page in this section started on Mar 16, 2023
 <!-- ============================================================================================================================================================ -->
 ## Hi there 👋
 <h1 align="center">I'm Eranga Madhushan. BCS Student at University of Ruhuna, Sri Lanka.</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="erangamadhushan" /> </p>
 <!--
 **Eranga2002/Eranga2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
