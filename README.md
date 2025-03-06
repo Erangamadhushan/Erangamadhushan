@@ -156,7 +156,7 @@ counting of visitors to this page in this section started on Mar 16, 2023
 <h1 align="center">I'm Eranga Madhushan. BCS Student at University of Ruhuna, Sri Lanka.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="erangamadhushan" /> </p>
 <!--
-**Eranga2002/Eranga2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Eranga2002/Eranga2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -168,7 +168,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 🎓 Computer Science Student | Active Researcher @ Magically Delicious | 🌐 Front-End Developer
 
@@ -176,11 +175,7 @@ Here are some ideas to get you started:
 - Languages: HTML, CSS, JavaScript
 - Frameworks: React, TailwindCSS
 - Tools: VS Code, Git, Figma
-
-<!--## 🚀 Projects
-- [Project Name](link-to-project) - Description
-- [Magically Delicious](link-to-business-site) - My cupcake business-->
-
+- 
 ## 🌱 Fun Facts
 - I’m currently learning reactJS and  Java Programming
 - I love baking and coding!
@@ -209,3 +204,5 @@ Here are some ideas to get you started:
  
 </tr>
 </table>-->
+<h2 align="center">Thanks for watching my profile. Have a nice day !!</h2>
+<p>Last Edited on 05/03/2025</p>
