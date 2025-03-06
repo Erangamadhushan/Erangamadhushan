@@ -152,7 +152,7 @@ counting of visitors to this page in this section started on Mar 16, 2023
 -->
 
 <!-- ============================================================================================================================================================ -->
-## Hi there 👋
+## Hi  👋
 <h1 align="center">I'm Eranga Madhushan. BCS Student at University of Ruhuna, Sri Lanka.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="erangamadhushan" /> </p>
 <!--
@@ -160,24 +160,24 @@ counting of visitors to this page in this section started on Mar 16, 2023
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on EMCSS Project
+- 🌱 I’m currently learning ReactJS and NodeJS
+- 👯 I’m looking to collaborate on Web Development Projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about Java and Javascript
+- 📫 How to reach me: <a mailto="erangamadhushann956@gmail.com">erangamadhushann956@gmail.com</a>
+- 😄 Pronouns: EM956
+- ⚡ Fun fact: Coding
 
-🎓 Computer Science Student | Active Researcher @ Magically Delicious | 🌐 Front-End Developer
+🎓 Computer Science Student | Active Researcher @ Magically Delicious | 🌐 Front-End Developer | Tech Enthusiate
 
 ## 🔧 Technologies & Tools
-- Languages: HTML, CSS, JavaScript
-- Frameworks: React, TailwindCSS
-- Tools: VS Code, Git, Figma
+- Languages: HTML, CSS, JavaScript, C, Java, 
+- Frameworks: React, TailwindCSS, bootstrap, jquery, angularJS
+- Tools: VS Code, Git, Figma, Photoshop, Lightroom
 - 
 ## 🌱 Fun Facts
-- I’m currently learning reactJS and  Java Programming
+- I’m currently learning reactJS, NodeJS and  Java Programming
 - I love baking and coding!
 
 <!--- <h2 align="center">
