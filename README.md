@@ -2,7 +2,7 @@
 
 
 ![img](https://github.com/user-attachments/assets/dc005b1a-0c27-4d5b-b1b8-ea6ff06893cf)<br/>
-<br/><a href="https://github.com/mnpsnuwan"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ADB3F,11:08D265,22:06C98B,33:04BFB1,44:02B6D7,55:00ADFD,66:4082D7,77:8057B2,88:BF2B8C,99:FF0066,100:FF0066&text=Welcome%20to%20my%20Profile!&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
+<br/>
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 >Hello Everyone 👋,</h1>
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=I%20am%20Eranga%20Madhushan"/>
@@ -155,8 +155,8 @@ counting of visitors to this page in this section started on Mar 16, 2023
 -->
 
 <!-- ============================================================================================================================================================ -->
-## Hi  there,👋
-<h1 align="center">I'm Eranga Madhushan. BCS Student at University of Ruhuna, Sri Lanka.</h1>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20👋&fontSize=75&animation=fadeIn&fontAlignY=35&desc=I'm%20Eranga%20Madhushan%20|BCS%20Student%20at%20University%20of%20Ruhuna%20,Sri%20Lanka&descAlignY=55&descAlign=62" alt="Introduction"/></div>
+<h1 align="center">FullStack Developer from Sri Lanka.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="erangamadhushan" /> </p>
 <!--
 **Eranga2002/Eranga2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -205,5 +205,10 @@ Here are some ideas to get you started:
 </tr>
 </table>
 <h2 align="center">Thanks for watching my profile. Have a nice day !!</h2>
-<a href="https://github.com/mnpsnuwan"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0ADB3F,11:08D265,22:06C98B,33:04BFB1,44:02B6D7,55:00ADFD,66:4082D7,77:8057B2,88:BF2B8C,99:FF0066,100:FF0066&section=footer" /></a>
+<!-- Footer -->
+<div align="center">
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+  
+</div>
 <p>Last Edited on 12/03/2025</p>
