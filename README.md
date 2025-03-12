@@ -1,5 +1,8 @@
 
-![img](https://github.com/user-attachments/assets/dc005b1a-0c27-4d5b-b1b8-ea6ff06893cf)
+
+
+![img](https://github.com/user-attachments/assets/dc005b1a-0c27-4d5b-b1b8-ea6ff06893cf)<br/>
+<br/><a href="https://github.com/mnpsnuwan"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ADB3F,11:08D265,22:06C98B,33:04BFB1,44:02B6D7,55:00ADFD,66:4082D7,77:8057B2,88:BF2B8C,99:FF0066,100:FF0066&text=Welcome%20to%20my%20Profile!&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 >Hello Everyone 👋,</h1>
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=I%20am%20Eranga%20Madhushan"/>
@@ -152,7 +155,7 @@ counting of visitors to this page in this section started on Mar 16, 2023
 -->
 
 <!-- ============================================================================================================================================================ -->
-## Hi  👋
+## Hi  there,👋
 <h1 align="center">I'm Eranga Madhushan. BCS Student at University of Ruhuna, Sri Lanka.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="erangamadhushan" /> </p>
 <!--
@@ -180,29 +183,27 @@ Here are some ideas to get you started:
 - I’m currently learning reactJS, NodeJS and  Java Programming
 - I love baking and coding!
 
-<!--- <h2 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="Eranga2002" /> </p>
-
-<table align="center"> <tr align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Erangamadhushan" alt="Eranga2002" /></a> </tr></table>
-
+ 
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&theme=tokyonight&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&theme=algolia&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Erangamadhushan&icon_color=6FDA44&theme=tokyonight&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Erangamadhushan&icon_color=6FDA44&theme=algolia&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
  
 </tr>
-</table>-->
+<tr>
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erangamadhushan&theme=algolia" height="200em" width="822.5em" />
+</tr>
+</table>
 <h2 align="center">Thanks for watching my profile. Have a nice day !!</h2>
-<p>Last Edited on 05/03/2025</p>
+<a href="https://github.com/mnpsnuwan"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0ADB3F,11:08D265,22:06C98B,33:04BFB1,44:02B6D7,55:00ADFD,66:4082D7,77:8057B2,88:BF2B8C,99:FF0066,100:FF0066&section=footer" /></a>
+<p>Last Edited on 12/03/2025</p>
