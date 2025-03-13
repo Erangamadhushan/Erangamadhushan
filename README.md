@@ -166,7 +166,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on EMCSS Project
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 👯 I’m looking to collaborate on Web Development Projects
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with your fullstack projects
 - 💬 Ask me about Java and Javascript
 - 📫 How to reach me: <a mailto="erangamadhushann956@gmail.com">erangamadhushann956@gmail.com</a>
 - 😄 Pronouns: EM956
@@ -178,6 +178,7 @@ Here are some ideas to get you started:
 - Languages: HTML, CSS, JavaScript, C, Java, 
 - Frameworks: React, TailwindCSS, bootstrap, jquery, angularJS
 - Tools: VS Code, Git, Figma, Photoshop, Lightroom
+- Other: MS Word, Excel, Canva
 - 
 ## 🌱 Fun Facts
 - I’m currently learning reactJS, NodeJS and  Java Programming
@@ -204,6 +205,7 @@ Here are some ideas to get you started:
    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erangamadhushan&theme=algolia" height="200em" width="822.5em" />
 </tr>
 </table>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nipuna's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Erangamadhushan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <h2 align="center">Thanks for watching my profile. Have a nice day !!</h2>
 <!-- Footer -->
 <div align="center">
