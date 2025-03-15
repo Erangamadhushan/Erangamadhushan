@@ -158,6 +158,7 @@ counting of visitors to this page in this section started on Mar 16, 2023
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20👋&fontSize=75&animation=fadeIn&fontAlignY=35&desc=I'm%20Eranga%20Madhushan%20|BCS%20Student%20at%20University%20of%20Ruhuna%20,Sri%20Lanka&descAlignY=55&descAlign=62" alt="Introduction"/></div>
 <h1 align="center">FullStack Developer from Sri Lanka.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="erangamadhushan" /> </p>
+<p align="left"><img src="https://user-badge.committers.top/sri_lanka/Erangamadhushan.svg)](https://user-badge.committers.top/sri_lanka/Erangamadhushan"/></p>
 <!--
 **Eranga2002/Eranga2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -185,27 +186,22 @@ Here are some ideas to get you started:
 - I love baking and coding!
 
  
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&theme=algolia&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Erangamadhushan&icon_color=6FDA44&theme=algolia&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
- 
-</tr>
-<tr>
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erangamadhushan&theme=algolia" height="200em" width="822.5em" />
-</tr>
-</table>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nipuna's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Erangamadhushan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<details open>  
+  <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
+<p align="center">
+    <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&show_icons=true&hide_border=true&title_color=FFFFFF&bg_color=000000&text_color=FFFFFF&icon_color=FF0000&ring_color=FF0000" />
+    <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
+    <img align="center" width="400" src="https://streak-stats.demolab.com/?user=Erangamadhushan&theme=highcontrast&border=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&currStreakLabel=FF0000&card_height=205" />
+    <br/><br/>
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph // Graph-Koordinaten -->
+<img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=Erangamadhushan&theme=high-contrast&hide_border=true&area=true&point=FF0000&area_color=FF0000&line=FF0000" />
+    <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erangamadhushan&layout=compact&bg_color=000000&text_color=FFFFFF&hide_border=true&card_width=805&title_color=FF0000" />
+    <br/><br/>
+    
+</p>
+</details>
 <h2 align="center">Thanks for watching my profile. Have a nice day !!</h2>
 <!-- Footer -->
 <div align="center">
