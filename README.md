@@ -158,7 +158,7 @@ counting of visitors to this page in this section started on Mar 16, 2023
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20👋&fontSize=75&animation=fadeIn&fontAlignY=35&desc=I'm%20Eranga%20Madhushan%20|BCS%20Student%20at%20University%20of%20Ruhuna%20,Sri%20Lanka&descAlignY=55&descAlign=62" alt="Introduction"/></div>
 <h1 align="center">FullStack Developer from Sri Lanka.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="erangamadhushan" /> </p>
-<p align="left"><img src="https://user-badge.committers.top/sri_lanka/Erangamadhushan.svg)](https://user-badge.committers.top/sri_lanka/Erangamadhushan"/></p>
+Sri Lanka Most Active GitHub Users Rank:<img src="https://user-badge.committers.top/sri_lanka/Erangamadhushan.svg"/>
 <!--
 **Eranga2002/Eranga2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
