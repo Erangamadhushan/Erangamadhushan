@@ -205,8 +205,8 @@ Here are some ideas to get you started:
 <h2 align="center">Thanks for watching my profile. Have a nice day !!</h2>
 <!-- Footer -->
 <div align="center">
-  
+  <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Erangamadhushan)](https://github.com/Erangamadhushan/github-readme-stats)-->
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
   
 </div>
-<p>Last Edited on 12/03/2025</p>
+<p>Last Edited on 18/03/2025</p>
