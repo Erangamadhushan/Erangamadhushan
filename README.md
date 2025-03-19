@@ -201,12 +201,30 @@ Here are some ideas to get you started:
     <br/><br/>
     
 </p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erangamadhushan&theme=tokyonight&utcOffset=530" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erangamadhushan&theme=tokyonight" />
 </details>
 <h2 align="center">Thanks for watching my profile. Have a nice day !!</h2>
 <!-- Footer -->
 <div align="center">
-  <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Erangamadhushan)](https://github.com/Erangamadhushan/github-readme-stats)-->
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+  <p align="center">
+  <a href="https://github.com/Erangamadhushan">
+    <img src="https://img.shields.io/badge/Git%20Hub-1877F2?logo=github&logoColor=white&style=for-the-badge" alt="Facebook">
+  </a>
+  <a href="erangamadhushann956@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FAB12F?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp">
+  </a>
+  <a href="https://www.facebook.com/Eranga Madhushan">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook">
+  </a>
+</p>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
 </div>
-<p>Last Edited on 18/03/2025</p>
+<p>Last Edited on 20/03/2025</p>
