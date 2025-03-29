@@ -201,9 +201,18 @@ Here are some ideas to get you started:
     <br/><br/>
     
 </p>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erangamadhushan&theme=tokyonight&utcOffset=530" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erangamadhushan&theme=tokyonight" />
 </details>
+ <table>
+  <tr>
+     <td style="width:50%">
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erangamadhushan&theme=tokyonight&utcOffset=530" />
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erangamadhushan&theme=tokyonight" />
+   </td>
+    <td style="width=50%">
+     <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=16"/>
+   </td>
+  </tr>
+ </table>
 <h2 align="center">Thanks for watching my profile. Have a nice day !!</h2>
 <!-- Footer -->
 <div align="center">
@@ -227,4 +236,4 @@ Here are some ideas to get you started:
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
 </div>
-<p>Last Edited on 20/03/2025</p>
+<p>Last Edited on 29/03/2025</p>
