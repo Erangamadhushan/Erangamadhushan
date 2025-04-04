@@ -162,9 +162,7 @@ Sri Lanka Most Active GitHub Users Rank:<img src="https://user-badge.committers.
 Total time coded since Feb 17 2025 :
 <img src="https://wakatime.com/badge/user/11c2a7f7-000a-495d-81ba-833ef045dccf.svg"/>
 
-<!--[![wakatime](https://wakatime.com/badge/user/11c2a7f7-000a-495d-81ba-833ef045dccf.svg)](https://wakatime.com/@11c2a7f7-000a-495d-81ba-833ef045dccf)-->
-<!-- <a href="https://wakatime.com/@11c2a7f7-000a-495d-81ba-833ef045dccf"><img src="https://wakatime.com/badge/user/11c2a7f7-000a-495d-81ba-833ef045dccf.svg" alt="Total time coded since Feb 17 2025" /></a> -->
-<!--[![wakatime](https://wakatime.com/badge/user/11c2a7f7-000a-495d-81ba-833ef045dccf.svg)](https://wakatime.com/@11c2a7f7-000a-495d-81ba-833ef045dccf)-->
+
 
 <!--
 **Eranga2002/Eranga2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -212,11 +210,12 @@ Here are some ideas to get you started:
  <table>
   <tr>
      <td style="width:50%">
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erangamadhushan&theme=tokyonight&utcOffset=530" />
+<!--      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erangamadhushan&theme=tokyonight&utcOffset=530" /> -->
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erangamadhushan&theme=tokyonight" />
    </td>
     <td style="width=50%">
-     <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=16"/>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Erangamadhushan"/>
+<!--      <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=16"/> -->
    </td>
   </tr>
  </table>
