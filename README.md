@@ -159,6 +159,10 @@ counting of visitors to this page in this section started on Mar 16, 2023
 <h1 align="center">FullStack Developer from Sri Lanka.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="erangamadhushan" /> </p>
 Sri Lanka Most Active GitHub Users Rank:<img src="https://user-badge.committers.top/sri_lanka/Erangamadhushan.svg"/>
+<img src="https://wakatime.com/badge/user/11c2a7f7-000a-495d-81ba-833ef045dccf.svg"/>
+<!-- <a href="https://wakatime.com/@11c2a7f7-000a-495d-81ba-833ef045dccf"><img src="https://wakatime.com/badge/user/11c2a7f7-000a-495d-81ba-833ef045dccf.svg" alt="Total time coded since Feb 17 2025" /></a> -->
+<!--[![wakatime](https://wakatime.com/badge/user/11c2a7f7-000a-495d-81ba-833ef045dccf.svg)](https://wakatime.com/@11c2a7f7-000a-495d-81ba-833ef045dccf)-->
+
 <!--
 **Eranga2002/Eranga2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -234,6 +238,5 @@ Here are some ideas to get you started:
   </a>
 </p>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  
 </div>
-<p>Last Edited on 29/03/2025</p>
+<p>Last Edited on 04/04/2025</p>
