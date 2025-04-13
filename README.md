@@ -158,8 +158,8 @@ counting of visitors to this page in this section started on Mar 16, 2023
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20👋&fontSize=75&animation=fadeIn&fontAlignY=35&desc=I'm%20Eranga%20Madhushan%20|BCS%20Student%20at%20University%20of%20Ruhuna%20,Sri%20Lanka&descAlignY=55&descAlign=62" alt="Introduction"/></div>
 <h1 align="center">FullStack Developer from Sri Lanka.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="erangamadhushan" /> </p>
-Sri Lanka Most Active GitHub Users Rank:<img src="https://user-badge.committers.top/sri_lanka/Erangamadhushan.svg"/>
-Total time coded since Feb 17 2025 :
+Sri Lanka's Most Active GitHub Users Rank:<img src="https://user-badge.committers.top/sri_lanka/Erangamadhushan.svg"/>
+Total time coded since Mar 22, 2025 :
 <img src="https://wakatime.com/badge/user/11c2a7f7-000a-495d-81ba-833ef045dccf.svg"/>
 
 
@@ -169,11 +169,11 @@ Total time coded since Feb 17 2025 :
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on EMCSS Project
+- 🔭 I’m currently working on the EMCSS Project
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 👯 I’m looking to collaborate on Web Development Projects
-- 🤔 I’m looking for help with your fullstack projects
-- 💬 Ask me about Java and Javascript
+- 🤔 I’m looking for help with your full-stack projects
+- 💬 Ask me about Java and JavaScript
 - 📫 How to reach me: <a mailto="erangamadhushann956@gmail.com">erangamadhushann956@gmail.com</a>
 - 😄 Pronouns: EM956
 - ⚡ Fun fact: Coding
@@ -181,13 +181,13 @@ Here are some ideas to get you started:
 🎓 Computer Science Student | Active Researcher @ Magically Delicious | 🌐 Front-End Developer | Tech Enthusiate
 
 ## 🔧 Technologies & Tools
+
 - Languages: HTML, CSS, JavaScript, C, Java, 
-- Frameworks: React, TailwindCSS, bootstrap, jquery, angularJS
+- Frameworks: React, TailwindCSS, Bootstrap, jQuery, AngularJS
 - Tools: VS Code, Git, Figma, Photoshop, Lightroom
 - Other: MS Word, Excel, Canva
-- 
+- I’m currently learning ReactJS, NodeJS, and  Java Programming
 ## 🌱 Fun Facts
-- I’m currently learning reactJS, NodeJS and  Java Programming
 - I love baking and coding!
 
  
@@ -241,4 +241,4 @@ Here are some ideas to get you started:
 </p>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-<p>Last Edited on 04/04/2025</p>
+<p>Last Edited on 13/04/2025</p>
