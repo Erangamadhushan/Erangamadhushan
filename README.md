@@ -173,19 +173,19 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 👯 I’m looking to collaborate on Web Development Projects
 - 🤔 I’m looking for help with your full-stack projects
-- 💬 Ask me about Java and JavaScript
+- 💬 Ask me about JavaScript and TypeScript
 - 📫 How to reach me: <a mailto="erangamadhushann956@gmail.com">erangamadhushann956@gmail.com</a>
 - 😄 Pronouns: EM956
 - ⚡ Fun fact: Coding
 
-🎓 Computer Science Student | Active Researcher @ Magically Delicious | 🌐 Front-End Developer | Tech Enthusiate
+🎓 Computer Science Student | Active Researcher @ junior economic analyst | 🌐 Front-End Developer | Tech Enthusiate | NodeJS backend Developer | UI/UX Designer 
 
 ## 🔧 Technologies & Tools
 
 - Languages: HTML, CSS, JavaScript, C, Java, 
 - Frameworks: React, TailwindCSS, Bootstrap, jQuery, AngularJS
-- Tools: VS Code, Git, Figma, Photoshop, Lightroom
-- Other: MS Word, Excel, Canva
+- Tools: VS Code, Git, Figma, Photoshop, Lightroom, Framer Motion, GitHub, GitLab
+- Other: MS Word, Excel, Canva, PowerPoint, MS Access
 - I’m currently learning ReactJS, NodeJS, and  Java Programming
 ## 🌱 Fun Facts
 - I love baking and coding!
@@ -241,4 +241,4 @@ Here are some ideas to get you started:
 </p>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-<p>Last Edited on 13/04/2025</p>
+<p>Last Edited on 15/04/2025</p>
