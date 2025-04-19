@@ -38,10 +38,12 @@ Here are some ideas to get you started:
  
 <details open>  
   <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erangamadhushan&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=0D1117&langs_count=10&count_private=true&hide=scss)]()
- [![Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Erangamadhushan&show_icons=true&line_height=28&show_icons=true&count_private=true&theme=react&hide_border=true&number_format=long&bg_color=0D1117)]()
- 
+<table> <tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erangamadhushan&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
+</td>
+ <td>
+  
+ [![Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Erangamadhushan&show_icons=true&line_height=28&show_icons=true&count_private=true&theme=react&hide_border=true&number_format=long&bg_color=0D1117)]()</td>
+ </tr></table>
 
 
 <p align="center"
@@ -86,4 +88,4 @@ Here are some ideas to get you started:
 </p>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-<p>Last Edited on 17/04/2025</p>
+<p>Last Edited on 19/04/2025</p>
