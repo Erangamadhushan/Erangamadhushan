@@ -8,6 +8,10 @@ Sri Lanka's Most Active GitHub Users Rank:<img src="https://user-badge.committer
 Total time coded since Mar 22, 2025 :
 <img src="https://wakatime.com/badge/user/11c2a7f7-000a-495d-81ba-833ef045dccf.svg"/>
 
+![GitHub Followers](https://img.shields.io/github/followers/Erangamadhushan?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Erangamadhushan/Erangamadhushan/main?color=blue&label=Commit%20Activity)
+![GitHub Stars](https://img.shields.io/github/stars/Erangamadhushan?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on the EMCSS Project
@@ -34,6 +38,12 @@ Here are some ideas to get you started:
  
 <details open>  
   <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erangamadhushan&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=0D1117&langs_count=10&count_private=true&hide=scss)]()
+ [![Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Erangamadhushan&show_icons=true&line_height=28&show_icons=true&count_private=true&theme=react&hide_border=true&number_format=long&bg_color=0D1117)]()
+ 
+
+
 <p align="center"
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&show_icons=true&hide_border=true&title_color=FFFFFF&bg_color=000000&text_color=FFFFFF&icon_color=FF0000&ring_color=FF0000" />
     <img align="center" width="400" src="https://streak-stats.demolab.com/?user=Erangamadhushan&theme=highcontrast&border=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&currStreakLabel=FF0000&card_height=205" />
