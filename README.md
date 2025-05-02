@@ -8,9 +8,11 @@ Sri Lanka's Most Active GitHub Users Rank:<img src="https://user-badge.committer
 Total time coded since Mar 22, 2025 :
 <img src="https://wakatime.com/badge/user/11c2a7f7-000a-495d-81ba-833ef045dccf.svg"/>
 
+
 ![GitHub Followers](https://img.shields.io/github/followers/Erangamadhushan?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3)
 ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Erangamadhushan/Erangamadhushan/main?color=blue&label=Commit%20Activity)
 ![GitHub Stars](https://img.shields.io/github/stars/Erangamadhushan?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3)
+
 
 Here are some ideas to get you started:
 
