@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 ![FaceBook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)
 ### Competitive Programming Profiles (Judge me by my Prime) <!--https://home.aveek.io/GitHub-Profile-Badges/ -->
 
-<a href="https://leetcode.com/walleeva2018/">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
+<a href="https://leetcode.com/u/Eranga_Madhushan/">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
 <a href="https://www.hackerrank.com/walleeva2018?hr_r=1">![](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 <br> 
 
