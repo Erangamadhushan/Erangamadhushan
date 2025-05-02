@@ -81,15 +81,12 @@ Here are some ideas to get you started:
 ### Open Source 
 
 <a href="https://erangamadhushan.github.io/Resource-Bank/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erangamadhushan&repo=Resource-Bank&theme=dark" />
 </a>  
+
 <a href="https://erangamadhushan.github.io/Git-School/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erangamadhushan&repo=Git-School&theme=dark" />
 </a>  
-
-
 
 
 <details open>  
