@@ -35,7 +35,63 @@ Here are some ideas to get you started:
 ## 🌱 Fun Facts
 - I love baking and coding!
 
- 
+# Tech Stack
+
+
+### Languages I'm good at
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2198f3?&style=for-the-badge&logo=css3&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-ff0000?&style=for-the-badge&logo=java&Color=white)
+![C](https://img.shields.io/badge/C-ffff00?&style=for-the-badge&logo=c&Color=white)
+
+
+### Technologies  <!-- https://dev.to/envoy_/150-badges-for-github-pnk#blockchain  -->
+
+![Tailwindcss](https://img.shields.io/badge/Tailwindcss-0000fe?&style=for-the-badge&logo=tailwindcss&Color=white)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-0FFFFF?&style=for-the-badge&logo=bootstrap&Color=white)
+![JQUERY](https://img.shields.io/badge/jQuery-000000?&style=for-the-badge&logo=jquery&Color=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](	https://img.shields.io/badge/Netlify-00C1B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### DataBase  <!-- https://dev.to/envoy_/150-badges-for-github-pnk#blockchain  -->
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4EA90B?style=for-the-badge&logo=mysql&logoColor=white)
+
+### In Platform
+![GitHub](https://img.shields.io/badge/Git%20Hub-1877F2?logo=github&logoColor=white&style=for-the-badge)
+![Gmail](https://img.shields.io/badge/Gmail-FAB12F?logo=gmail&logoColor=white&style=for-the-badge)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)
+![FaceBook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)
+### Competitive Programming Profiles (Judge me by my Prime) <!--https://home.aveek.io/GitHub-Profile-Badges/ -->
+
+<a href="https://leetcode.com/walleeva2018/">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
+<a href="https://www.hackerrank.com/walleeva2018?hr_r=1">![](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
+<br> 
+
+### Open Source 
+
+<a href="https://erangamadhushan.github.io/Resource-Bank/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erangamadhushan&repo=Resource-Bank&theme=dark" />
+</a>  
+<a href="https://erangamadhushan.github.io/Git-School/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erangamadhushan&repo=Git-School&theme=dark" />
+</a>  
+
+
+
+
 <details open>  
   <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
 <table> <tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erangamadhushan&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
@@ -69,23 +125,6 @@ Here are some ideas to get you started:
 <h2 align="center">Thanks for watching my profile. Have a nice day !!</h2>
 <!-- Footer -->
 <div align="center">
-  <p align="center">
-  <a href="https://github.com/Erangamadhushan">
-    <img src="https://img.shields.io/badge/Git%20Hub-1877F2?logo=github&logoColor=white&style=for-the-badge" alt="Facebook">
-  </a>
-  <a href="erangamadhushann956@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FAB12F?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp">
-  </a>
-  <a href="https://www.facebook.com/Eranga Madhushan">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook">
-  </a>
-</p>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-<p>Last Edited on 19/04/2025</p>
+<p>Last Edited on 02/05/2025</p>
