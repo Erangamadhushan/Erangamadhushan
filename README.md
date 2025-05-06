@@ -80,44 +80,49 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/profile/Team_337">![](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 <br> 
 
-### Open Source 
+</br>
+<h2>Top Projects</h2>
+<p>
+  <a href="https://github.com/Erangamadhushan/Git-School.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Erangamadhushan&repo=Git-School&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Git School"></a>
+  <a href="https://github.com/Erangamadhushan/Resource-Bank.git">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Erangamadhushan&repo=Resource-Bank&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Password-Manager"></a>
+  <a href="https://github.com/Erangamadhushan/Mini-Project-level1-sem1-.git">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Erangamadhushan&repo=Mini-Project-level1-sem1-&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Mini-Project-level1-sem1-">
+  </a>
+  </br>
 
-<a href="https://erangamadhushan.github.io/Resource-Bank/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erangamadhushan&repo=Resource-Bank&theme=dark" />
-</a>  
-
-<a href="https://erangamadhushan.github.io/Git-School/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erangamadhushan&repo=Git-School&theme=dark" />
-</a>  
-
-
-<details open>  
-  <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
-<table> <tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erangamadhushan&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
-</td>
- <td>
   
- [![Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Erangamadhushan&show_icons=true&line_height=28&show_icons=true&count_private=true&theme=react&hide_border=true&number_format=long&bg_color=0D1117)]()</td>
- </tr></table>
+  </p>
+  <p style="align:left;padding:10px;">
+    <a href="https://github.com/Erangamadhushan?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
+  </p>
 
 
-<p align="center"
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&show_icons=true&hide_border=true&title_color=FFFFFF&bg_color=000000&text_color=FFFFFF&icon_color=FF0000&ring_color=FF0000" />
-    <img align="center" width="400" src="https://streak-stats.demolab.com/?user=Erangamadhushan&theme=highcontrast&border=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&currStreakLabel=FF0000&card_height=205" />
-    <br/><br/
-<img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=Erangamadhushan&theme=high-contrast&hide_border=true&area=true&point=FF0000&area_color=FF0000&line=FF0000" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erangamadhushan&layout=compact&bg_color=000000&text_color=FFFFFF&hide_border=true&card_width=805&title_color=FF0000" />
-    <br/><br/>
-    
-</p>
+<!-- Current Stats card -->
+</br>
+<h2>Current Stats</h2>
+
+<div>
+<a href="https://github.com/Erangamadhushan">
+      <img alt="Eranga's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Erangamadhushan&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
+    </a>
+  <a href="https://github.com/Erangamadhushan">
+<img src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
+    </a>
+</div>
+
+
+
+![Erangamadhushan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erangamadhushan&custom_title=Eranga's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 </details>
  <table>
   <tr>
-     <td style="width:50%">
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erangamadhushan&theme=tokyonight" />
+     <td style="width:50%; background-color:#0d1017">
+     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Erangamadhushan/226cc6db-bb6a-4be7-a59c-eeb94af61832.png" /></a>
    </td>
     <td style="width=50%">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Erangamadhushan"/>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Erangamadhushan&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true"/>
    </td>
   </tr>
  </table>
@@ -126,4 +131,4 @@ Here are some ideas to get you started:
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-<p>Last Edited on 02/05/2025</p>
+<p>Last Edited on 06/05/2025</p>
