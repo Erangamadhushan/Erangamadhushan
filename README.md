@@ -1,4 +1,4 @@
-![img](https://github.com/user-attachments/assets/dc005b1a-0c27-4d5b-b1b8-ea6ff06893cf)<br/>
+<!--![img](https://github.com/user-attachments/assets/dc005b1a-0c27-4d5b-b1b8-ea6ff06893cf)<br/>
 <br/>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20👋&fontSize=75&animation=fadeIn&fontAlignY=35&desc=I'm%20Eranga%20Madhushan%20|BCS%20Student%20at%20University%20of%20Ruhuna%20,Sri%20Lanka&descAlignY=55&descAlign=62" alt="Introduction"/></div>
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/C-ffff00?&style=for-the-badge&logo=c&Color=white)
 
 
-### Technologies  <!-- https://dev.to/envoy_/150-badges-for-github-pnk#blockchain  -->
+### Technologies   
 
 ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-0000fe?&style=for-the-badge&logo=tailwindcss&Color=white)
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-0FFFFF?&style=for-the-badge&logo=bootstrap&Color=white)
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](	https://img.shields.io/badge/Netlify-00C1B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### DataBase  <!-- https://dev.to/envoy_/150-badges-for-github-pnk#blockchain  -->
+### DataBase   
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4EA90B?style=for-the-badge&logo=mysql&logoColor=white)
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)
 ![FaceBook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)
-### Competitive Programming Profiles (Judge me by my Prime) <!--https://home.aveek.io/GitHub-Profile-Badges/ -->
+### Competitive Programming Profiles (Judge me by my Prime) 
 
 <a href="https://leetcode.com/u/Eranga_Madhushan/">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
 <a href="https://www.hackerrank.com/profile/Team_337">![](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
   </p>
 
 
-<!-- Current Stats card -->
+
 </br>
 <h2>Current Stats</h2>
 
@@ -127,8 +127,8 @@ Here are some ideas to get you started:
   </tr>
  </table>
 <h2 align="center">Thanks for watching my profile. Have a nice day !!</h2>
-<!-- Footer -->
+
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-<p>Last Edited on 06/05/2025</p>
+<p>Last Edited on 06/05/2025</p>-->
