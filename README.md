@@ -1,3 +1,6 @@
+## Hi, I'm Eranga Madhushan. BCS student at the University of Ruhuna, Sri Lanka
+### Full-Stack Developer
+### passionate web developer and researcher
 <!--![img](https://github.com/user-attachments/assets/dc005b1a-0c27-4d5b-b1b8-ea6ff06893cf)<br/>
 <br/>
 
