@@ -1,6 +1,6 @@
-## Hi, I'm Eranga Madhushan. BCS student at the University of Ruhuna, Sri Lanka
+<!--## Hi, I'm Eranga Madhushan. BCS student at the University of Ruhuna, Sri Lanka
 ### Full-Stack Developer
-### passionate web developer and researcher
+### passionate web developer and researcher-->
 <!--![img](https://github.com/user-attachments/assets/dc005b1a-0c27-4d5b-b1b8-ea6ff06893cf)<br/>
 <br/>
 
@@ -135,3 +135,61 @@ Here are some ideas to get you started:
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 <p>Last Edited on 06/05/2025</p>-->
+
+# Hi there, I'm Erangamadhushan 👋
+
+🎓 **Passionate BCS Student**  
+Currently studying at the University of Ruhuna, Sri Lanka
+
+---
+
+## 👨‍💻 About Me
+
+- 🚀 Aspiring full-stack developer, focusing on **MERN** and **MEAN** stacks
+- 💡 Enthusiastic about web development, software engineering, and economic analysis
+- 🔭 Actively working on **TalkFlow** – a real-time messaging application
+- 🔍 Always researching new technologies and keeping up with the latest tech releases
+
+---
+
+## 🛠️ Skills & Interests
+
+- **Full-Stack Development:** JavaScript, Node.js, Express, React, MongoDB, Angular
+- **Web Development**
+- **Software Development**
+- **Economic Analysis**
+
+---
+
+## 🌟 Featured Project
+
+### TalkFlow
+A real-time messaging application built with modern web technologies. (More details and repo link coming soon!)
+
+---
+
+## 📚 Currently Learning
+
+- **Full-Stack Development** (MERN & MEAN Stacks)
+- New frameworks and cutting-edge libraries
+
+---
+
+## 🤓 Fun Fact
+
+I love exploring and experimenting with the latest technology releases!
+
+---
+
+<!--## 🌐 Connect with Me-->
+
+<!-- Add your social and portfolio links here -->
+<!--
+[LinkedIn]()
+[Twitter]()
+[Personal Website]()
+-->
+
+---
+
+<!-- Add GitHub stats, contribution graph, or special sections here if you wish -->
