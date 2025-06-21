@@ -142,7 +142,7 @@ Here are some ideas to get you started:
 Currently studying at the University of Ruhuna, Sri Lanka
 
 ---
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="erangamadhushan" /> </p>
 ## 👨‍💻 About Me
 
 - 🚀 Aspiring full-stack developer, focusing on **MERN** and **MEAN** stacks
@@ -179,7 +179,12 @@ A real-time messaging application built with modern web technologies. (More deta
 
 I love exploring and experimenting with the latest technology releases!
 
----
+
+| Front-end Development | html, css, Javascript, TypeScript, ReactJS, nextJS, jQuery, AngularJS,  |
+| ------- | ------- |
+| Back-end Development | NodeJS, ExpressJS, PHP, Java, C# |
+| Database Technologies | MySQL, MongoDB, SQLite, DBase | 
+
 
 <!--## 🌐 Connect with Me-->
 
