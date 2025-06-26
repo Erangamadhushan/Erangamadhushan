@@ -185,6 +185,16 @@ I love exploring and experimenting with the latest technology releases!
 | Back-end Development | NodeJS, ExpressJS, PHP, Java, C# |
 | Database Technologies | MySQL, MongoDB, SQLite, DBase | 
 
+<h2>Current Stats</h2>
+
+<div>
+<a href="https://github.com/Erangamadhushan">
+      <img alt="Eranga's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Erangamadhushan&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
+    </a>
+  <a href="https://github.com/Erangamadhushan">
+<img src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&show_icons=true&bg_color=0D1017&border_radius=0&text_color=FF0000&title_color=FF0000&icon_color=FF0000&hide_border=false&card_width=414&card_height=195"/>
+    </a>
+</div>
 
 <!--## 🌐 Connect with Me-->
 
