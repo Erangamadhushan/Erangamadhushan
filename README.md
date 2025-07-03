@@ -143,6 +143,9 @@ Currently studying at the University of Ruhuna, Sri Lanka
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="erangamadhushan" /> </p>
+Sri Lanka's Most Active GitHub Users Rank:<img src="https://user-badge.committers.top/sri_lanka/Erangamadhushan.svg"/>
+Total time coded since Mar 22, 2025 :
+<img src="https://wakatime.com/badge/user/11c2a7f7-000a-495d-81ba-833ef045dccf.svg"/>
 ## 👨‍💻 About Me
 
 - 🚀 Aspiring full-stack developer, focusing on **MERN** and **MEAN** stacks
