@@ -155,15 +155,6 @@ Total time coded since Mar 22, 2025 :
 
 ---
 
-## 🛠️ Skills & Interests
-
-- **Full-Stack Development:** JavaScript, Node.js, Express, React, MongoDB, Angular
-- **Web Development**
-- **Software Development**
-- **Economic Analysis**
-
----
-
 ## 🌟 Featured Project
 
 ### TalkFlow
@@ -182,12 +173,49 @@ A real-time messaging application built with modern web technologies. (More deta
 
 I love exploring and experimenting with the latest technology releases!
 
-
+<!--
 | Front-end Development | html, css, Javascript, TypeScript, ReactJS, nextJS, jQuery, AngularJS,  |
 | ------- | ------- |
 | Back-end Development | NodeJS, ExpressJS, PHP, Java, C# |
 | Database Technologies | MySQL, MongoDB, SQLite, DBase | 
+-->
+# Tech Stack
 
+
+### Languages I'm good at
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2198f3?&style=for-the-badge&logo=css3&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-ff0000?&style=for-the-badge&logo=java&Color=white)
+![C](https://img.shields.io/badge/C-ffff00?&style=for-the-badge&logo=c&Color=white)
+
+
+### Technologies   
+
+![Tailwindcss](https://img.shields.io/badge/Tailwindcss-0000fe?&style=for-the-badge&logo=tailwindcss&Color=white)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-0FFFFF?&style=for-the-badge&logo=bootstrap&Color=white)
+![JQUERY](https://img.shields.io/badge/jQuery-000000?&style=for-the-badge&logo=jquery&Color=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](	https://img.shields.io/badge/Netlify-00C1B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### DataBase   
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4EA90B?style=for-the-badge&logo=mysql&logoColor=white)
+
+### In Platform
+![GitHub](https://img.shields.io/badge/Git%20Hub-1877F2?logo=github&logoColor=white&style=for-the-badge)
+![Gmail](https://img.shields.io/badge/Gmail-FAB12F?logo=gmail&logoColor=white&style=for-the-badge)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)
+![FaceBook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)
 <h2>Current Stats</h2>
 
 <div>
@@ -198,6 +226,15 @@ I love exploring and experimenting with the latest technology releases!
 <img src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&show_icons=true&bg_color=0D1017&border_radius=0&text_color=FF0000&title_color=FF0000&icon_color=FF0000&hide_border=false&card_width=414&card_height=195"/>
     </a>
 </div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erangamadhushan&theme=dark"/>
+<table><tr><td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erangamadhushan&theme=dark"/></td><td>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erangamadhushan&theme=dark"/></td></tr></table>
+
+<table><tr><td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erangamadhushan&theme=dark"/></td><td>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erangamadhushan&theme=dark&utcOffset=8"/></td></tr></table>
+
+
+
 
 <!--## 🌐 Connect with Me-->
 
