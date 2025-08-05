@@ -142,7 +142,13 @@ Here are some ideas to get you started:
 Currently studying at the University of Ruhuna, Sri Lanka
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="erangamadhushan" /> </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="erangamadhushan" /> 
+
+![Views Counter](https://views-counter.vercel.app/badge?pageId=Erangamadhushan&leftColor=000000&rightColor=2196fe&type=daily&label=TODAY%20VIEWS&style=none)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=Erangamadhushan&leftColor=000000&rightColor=2196fe&type=unique&label=UNIQUE%20VIEWS&style=none)
+</p>
 Sri Lanka's Most Active GitHub Users Rank:<img src="https://user-badge.committers.top/sri_lanka/Erangamadhushan.svg"/>
 Total time coded since Mar 22, 2025 :
 <img src="https://wakatime.com/badge/user/11c2a7f7-000a-495d-81ba-833ef045dccf.svg"/>
@@ -220,10 +226,10 @@ I love exploring and experimenting with the latest technology releases!
 
 <div>
 <a href="https://github.com/Erangamadhushan">
-      <img alt="Eranga's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Erangamadhushan&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
+      <img alt="Eranga's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Erangamadhushan&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=2196fe&currStreakNum=2196fe&sideNums=2196fe&currStreakLabel=2196fe&sideLabels=2196fe&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
     </a>
   <a href="https://github.com/Erangamadhushan">
-<img src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&show_icons=true&bg_color=0D1017&border_radius=0&text_color=FF0000&title_color=FF0000&icon_color=FF0000&hide_border=false&card_width=414&card_height=195"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&show_icons=true&bg_color=000000&border_radius=0&text_color=2196fe&title_color=2196fe&icon_color=2196fe&hide_border=false&card_width=414&card_height=195"/>
     </a>
 </div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erangamadhushan&theme=dark"/>
