@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <h2>Top Projects</h2>
 <p>
-  <a href="https://github.com/Erangamadhushan/Git-School.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Erangamadhushan&repo=Git-School&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Git School"></a>
+  <a href="https://github.com/Erangamadhushan/kute.js-master.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Erangamadhushan&repo=kute.js-master&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="kute.js-master"></a>
   <a href="https://github.com/Erangamadhushan/Resource-Bank.git">
 	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Erangamadhushan&repo=Resource-Bank&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Password-Manager"></a>
   <a href="https://github.com/Erangamadhushan/Mini-Project-level1-sem1-.git">
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
  <table>
   <tr>
      <td style="width:50%; background-color:#0d1017">
-     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Erangamadhushan/226cc6db-bb6a-4be7-a59c-eeb94af61832.png" /></a>
+     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Erangamadhushan/226cc6db-bb6a-4be7-a59c-eeb94af61832.png" style="height:600px;width:700px;"/></a>
    </td>
     <td style="width=50%">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Erangamadhushan&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true"/>
