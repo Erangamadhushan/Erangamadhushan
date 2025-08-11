@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Eranga Madhushan</h1>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20👋&fontSize=75&animation=fadeIn&fontAlignY=35&desc=I'm%20Eranga%20Madhushan%20|BCS%20Student%20at%20University%20of%20Ruhuna%20,Sri%20Lanka&descAlignY=55&descAlign=62" alt="Introduction"/></div>
 <h1 align="center">FullStack Developer from Sri Lanka.</h1>
 
 ![img](https://github.com/user-attachments/assets/dc005b1a-0c27-4d5b-b1b8-ea6ff06893cf)<br/>
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20👋&fontSize=75&animation=fadeIn&fontAlignY=35&desc=I'm%20Eranga%20Madhushan%20|BCS%20Student%20at%20University%20of%20Ruhuna%20,Sri%20Lanka&descAlignY=55&descAlign=62" alt="Introduction"/></div>
 <table><tr><td>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="erangamadhushan" /> </p>
 <p>Sri Lanka's Most Active GitHub Users Rank:</p>
