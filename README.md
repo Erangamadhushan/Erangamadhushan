@@ -75,15 +75,13 @@ Here are some ideas to get you started:
     </a>
 </div>
 
-
-
 ![Erangamadhushan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erangamadhushan&custom_title=Eranga's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 </details>
  <table>
   <tr>
      <td style="width:50%; background-color:#0d1017">
-     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Erangamadhushan/226cc6db-bb6a-4be7-a59c-eeb94af61832.png" style="height:600px;width:700px;"/></a>
+     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Erangamadhushan/226cc6db-bb6a-4be7-a59c-eeb94af61832.png" style="height:500px;width:700px;"/></a>
    </td>
     <td style="width=50%">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Erangamadhushan&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true"/>
@@ -96,4 +94,3 @@ Here are some ideas to get you started:
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 <p>Last Edited on 11/08/2025</p>
-
