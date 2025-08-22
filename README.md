@@ -51,46 +51,5 @@ Here are some ideas to get you started:
   </a>
   </br>
 
-  
-  </p>
-  <p style="align:left;padding:10px;">
-    <a href="https://github.com/Erangamadhushan?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
-  </p>
-
-<table><tr><td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erangamadhushan&theme=dark"/></td><td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erangamadhushan&theme=dark"/></td></tr></table>
-
-<table><tr><td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erangamadhushan&theme=dark"/></td><td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erangamadhushan&theme=dark&utcOffset=8"/></td></tr></table>
-
-</br>
-<h2>Current Stats</h2>
-
-<div>
-<a href="https://github.com/Erangamadhushan">
-      <img alt="Eranga's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Erangamadhushan&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
-    </a>
-  <a href="https://github.com/Erangamadhushan">
-<img src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
-    </a>
-</div>
-
-![Erangamadhushan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erangamadhushan&custom_title=Eranga's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-</details>
- <table>
-  <tr>
-     <td style="width:50%; background-color:#0d1017">
-     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Erangamadhushan/226cc6db-bb6a-4be7-a59c-eeb94af61832.png" style="height:500px;width:700px;"/></a>
-   </td>
-    <td style="width=50%">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Erangamadhushan&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true"/>
-   </td>
-  </tr>
- </table>
-<h2 align="center">Thanks for watching my profile. Have a nice day !!</h2>
-
-<div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+ 
 <p>Last Edited on 11/08/2025</p>
