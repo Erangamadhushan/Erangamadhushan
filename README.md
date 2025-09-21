@@ -50,6 +50,22 @@ Here are some ideas to get you started:
 	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Erangamadhushan&repo=Mini-Project-level1-sem1-&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Mini-Project-level1-sem1-">
   </a>
   </br>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Erangamadhushan&theme=tokyonight&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Erangamadhushan&icon_color=6FDA44&theme=tokyonight&hide_border=false" /> 
+</td>
 
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Erangamadhushan&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
  
-<p>Last Edited on 11/08/2025</p>
+</tr>
+</table>
+ 
+<p>Last Edited on 21/09/2025</p>
