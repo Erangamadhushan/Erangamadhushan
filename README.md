@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 ![img](https://github-readme-stats.vercel.app/api?username=Erangamadhushan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Erangamadhushan&theme=radical&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Erangamadhushan&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erangamadhushan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  
 <p>Last Edited on 24/09/2025</p>
