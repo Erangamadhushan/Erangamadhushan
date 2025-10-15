@@ -56,5 +56,8 @@ Here are some ideas to get you started:
 ![img](https://github-readme-stats.vercel.app/api?username=Erangamadhushan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Erangamadhushan&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erangamadhushan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Erangamadhushan&langs_count=20&layout=compact"/>
+
  
-<p>Last Edited on 24/09/2025</p>
+<p>Last Edited on 15/10/2025</p>
