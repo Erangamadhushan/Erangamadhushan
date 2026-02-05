@@ -19,7 +19,7 @@ Profile Views:<br/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Creator Subscription Platform MERN application**
-- 🌱 I’m currently learning **NodeJS,ExpressJS, NextJS and Golang, Rust programming language.**
+- 🌱 I’m currently learning **Java, Spring Boot, Golang, and Rust programming language.**
 - 👯 I’m looking to collaborate on **MERN and MEAN projects**
 - 💬 Ask me about **React,NodeJS and NextJS**
 - 📫 How to reach me **erangamadhushann956@gmail.com**
@@ -32,10 +32,11 @@ Here are some ideas to get you started:
 
 | Title           | Icon                                                                                                      |
 |-----------------|-----------------------------------------------------------------------------------------------------------|
-| IDE             | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,netsbean,cursorai"/>                    |
-| Front End       | <img src="https://skillicons.dev/icons?i=react,next,ts,js,materialui,vue,js,jquery,bootstrap,tailwind"/>  |
-| Back End        | <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,postgresql,regex"/>             |
-| Others          | <img src="https://skillicons.dev/icons?i=github,git,gitlab,maven,postman,discord,stackoverflow"/>         |
+| IDE             | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,netsbean,cursor"/>                    |
+| Front End       | <img src="https://skillicons.dev/icons?i=react,next,ts,js,materialui,vue,js,jquery,bootstrap,tailwind,redux,zuztand"/>  |
+| Back End        | <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,mysql,mongodb,postgresql,regex"/>             |
+| Others          | <img src="https://skillicons.dev/icons?i=github,git,gitlab,maven,postman,discord,stackoverflow,vercel,netlify"/>         |
+| DevOps          | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,bash" />        |
 
 </div>
 
@@ -70,4 +71,4 @@ Here are some ideas to get you started:
 </div>
 
  
-<p align="center">Last Edited on 17/01/2026</p>
+<p align="center">Last Edited on 05/02/2026</p>
