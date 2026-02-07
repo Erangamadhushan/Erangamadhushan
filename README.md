@@ -1,5 +1,5 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20👋&fontSize=75&animation=fadeIn&fontAlignY=35&desc=I'm%20Eranga%20Madhushan%20|BCS%20Student%20at%20University%20of%20Ruhuna%20,Sri%20Lanka&descAlignY=55&descAlign=62" alt="Introduction"/></div>
-<h1 align="center">FullStack Developer from Sri Lanka.</h1>
+<h1 align="center">FullStack Developer, Aspiring Platform Engineer from Sri Lanka.</h1>
 
 ![img](https://github.com/user-attachments/assets/dc005b1a-0c27-4d5b-b1b8-ea6ff06893cf)<br/>
 
@@ -19,8 +19,8 @@ Profile Views:<br/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Creator Subscription Platform MERN application**
-- 🌱 I’m currently learning **Java, Spring Boot, Golang, and Rust programming language.**
-- 👯 I’m looking to collaborate on **MERN and MEAN projects**
+- 🌱 I’m currently learning **Java, Spring Boot, Golang, and Rust programming language. Strongly passionate about DevOps.**
+- 👯 I’m looking to collaborate on **MERN, MEAN, and PHP based projects**
 - 💬 Ask me about **React,NodeJS and NextJS**
 - 📫 How to reach me **erangamadhushann956@gmail.com**
 - ⚡ Fun fact: Coding
@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 | Title           | Icon                                                                                                      |
 |-----------------|-----------------------------------------------------------------------------------------------------------|
 | IDE             | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,netsbean,cursor"/>                    |
-| Front End       | <img src="https://skillicons.dev/icons?i=react,next,ts,js,materialui,vue,js,jquery,bootstrap,tailwind,redux,zuztand"/>  |
-| Back End        | <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,mysql,mongodb,postgresql,regex"/>             |
-| Others          | <img src="https://skillicons.dev/icons?i=github,git,gitlab,maven,postman,discord,stackoverflow,vercel,netlify"/>         |
+| Front End       | <img src="https://skillicons.dev/icons?i=react,next,ts,js,materialui,vue,jquery,bootstrap,tailwind,redux,zuztand"/>  |
+| Back End        | <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,mysql,mongodb,postgresql,sqlite,regex"/>             |
+| Others          | <img src="https://skillicons.dev/icons?i=github,git,gitlab,maven,postman,prisma,discord,stackoverflow,vercel,netlify,digitalocean"/>         |
 | DevOps          | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,bash" />        |
 
 </div>
@@ -71,4 +71,4 @@ Here are some ideas to get you started:
 </div>
 
  
-<p align="center">Last Edited on 05/02/2026</p>
+<p align="center">Last Edited on 07/02/2026</p>
