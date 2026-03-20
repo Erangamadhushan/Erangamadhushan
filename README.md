@@ -1,16 +1,9 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20👋&fontSize=75&animation=fadeIn&fontAlignY=35&desc=I'm%20Eranga%20Madhushan%20|BCS%20Student%20at%20University%20of%20Ruhuna%20,Sri%20Lanka&descAlignY=55&descAlign=62" alt="Introduction"/></div>
-<h1 align="center">FullStack Developer, Aspiring Platform Engineer from Sri Lanka.</h1>
+<h1 align="center">FullStack Developer, Aspiring DevOps Engineer from Sri Lanka.</h1>
 
-![img](https://github.com/user-attachments/assets/dc005b1a-0c27-4d5b-b1b8-ea6ff06893cf)<br/>
 
 <br/>
 
-<table><tr><td width="200px">
-Profile Views:<br/>
-<img src="https://komarev.com/ghpvc/?username=erangamadhushan&label=Profile%20views&color=blue&style=flat" alt="erangamadhushan" /> </td>
-<td>Sri Lanka's Most Active GitHub Users Rank:<br/>
-
-<img src="https://user-badge.committers.top/sri_lanka/Erangamadhushan.svg"/></td>
 <td>Total time coded since Mar 22, 2025 :
 <img src="https://wakatime.com/badge/user/11c2a7f7-000a-495d-81ba-833ef045dccf.svg"/></td>
 
@@ -55,20 +48,8 @@ Here are some ideas to get you started:
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erangamadhushan&theme=github_dark" alt="Contribution Details" width="600"/>
       </td>
     </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erangamadhushan&theme=github_dark" alt="Top Languages by Repo" width="300"/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erangamadhushan&theme=github_dark" alt="Top Languages by Commit" width="300"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erangamadhushan&theme=github_dark" alt="GitHub Stats Summary" width="300"/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erangamadhushan&theme=github_dark&utcOffset=5.5" alt="Productive Time Analysis" width="300"/>
-      </td>
-    </tr>
   </table>
 </div>
 
  
-<p align="center">Last Edited on 07/02/2026</p>
+<p align="center">Last Edited on 20/03/2026</p>
